@@ -51,3 +51,56 @@ public:
         
     }
 };
+// to optimise it what we can do that count0,count1 and make a separeate array and not0 not1 make another separatet array or you can make 2d array of them [count][0]->inside y count,
+
+
+// class Solution {
+// public:
+//     bool check(int i, int j, vector<vector<int>>& grid) {
+//         int n = grid.size();
+//         int mid = n / 2;
+
+//         // Top part: two diagonals leading to the center
+//         if (i < mid && (i == j || i + j == n - 1)) return true;
+
+//         // Bottom part: vertical line from center down
+//         if (i >= mid && j == mid) return true;
+
+//         return false;
+//     }
+
+//     int minimumOperationsToWriteY(vector<vector<int>>& grid) {
+//         int n = grid.size();
+
+//         // counts[val][0] = count of val in Y
+//         // counts[val][1] = count of val outside Y
+//         vector<vector<int>> counts(3, vector<int>(2, 0));
+//         int yCount = 0, notYCount = 0;
+
+//         // Step 1: count
+//         for (int i = 0; i < n; i++) {
+//             for (int j = 0; j < n; j++) {
+//                 int val = grid[i][j];
+//                 if (check(i, j, grid)) {
+//                     counts[val][0]++; // inside Y
+//                     yCount++;
+//                 } else {
+//                     counts[val][1]++; // outside Y
+//                     notYCount++;
+//                 }
+//             }
+//         }
+
+//         // Step 2: try all assignments
+//         int ans = INT_MAX;
+//         for (int a = 0; a < 3; a++) {       // Y value
+//             for (int b = 0; b < 3; b++) {   // non-Y value
+//                 if (a == b) continue;       // must differ
+//                 int changeY = yCount - counts[a][0];
+//                 int changeNotY = notYCount - counts[b][1];
+//                 ans = min(ans, changeY + changeNotY);
+//             }
+//         }
+//         return ans;
+//     }
+// };
