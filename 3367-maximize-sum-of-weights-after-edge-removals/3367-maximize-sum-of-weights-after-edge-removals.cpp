@@ -6,6 +6,8 @@ public:
     int k;
 
     long long maximizeSumOfWeights(vector<vector<int>>& edges, int k) {
+    //   Number of nodes=Number of edges+1
+      
         int n = edges.size() + 1;
         this->k = k;
         gr.assign(n, {});
