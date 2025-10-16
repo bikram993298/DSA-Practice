@@ -13,7 +13,7 @@ public:
         if (dp[i][remain] != -1) return dp[i][remain];
 
         // Option 1: hire this painter
-        int hire = cost[i] + solve(i + 1, max(0, remain - time[i] - 1));
+        int hire = cost[i] + solve(i + 1,  remain - time[i] - 1);
 
         // Option 2: skip this painter
         int skip = solve(i + 1, remain);
