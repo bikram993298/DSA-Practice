@@ -15,28 +15,34 @@ private:
                         if (isValid(board, i, j, ch)) {
                             board[i][j] = ch;
 
-                            if (solve(board)) return true; // proceed recursively
-                             board[i][j] = '.';        // backtrack
+                            if (solve(board)) return true; // recursion
+                            board[i][j] = '.';             // backtrack
                         }
                     }
-                    return false; // no digit fits here → backtrack
+                    return false; // no valid number possible
                 }
             }
         }
-        return true; // all cells filled successfully
+        return true; // completely filled
     }
 
     bool isValid(vector<vector<char>>& board, int row, int col, char ch) {
-        for (int i = 0; i < 9; i++) {
-            // check row and column
-            if (board[row][i] == ch || board[i][col] == ch)
-                return false;
+        int mask = 1 << (ch - '1');
 
-            // check 3×3 sub-box
-            int boxRow = 3 * (row / 3) + i / 3;
-            int boxCol = 3 * (col / 3) + i % 3;
-            if (board[boxRow][boxCol] == ch)
-                return false;
+        // Check row and column
+        for (int i = 0; i < 9; i++) {
+            if (board[row][i] == ch) return false;  // check row
+            if (board[i][col] == ch) return false;  // check column
+        }
+
+        // Check 3x3 box
+        int boxRow = (row / 3) * 3;
+        int boxCol = (col / 3) * 3;
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                if (board[boxRow + i][boxCol + j] == ch)
+                    return false;
+            }
         }
         return true;
     }
