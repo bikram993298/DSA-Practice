@@ -16,7 +16,11 @@ public:
         } 
         else {
             // Direct match (move both forward)
-            ans = first_match && solve(i + 1, j + 1, s, p, dp);
+            if(first_match){
+                 ans =  solve(i + 1, j + 1, s, p, dp);
+
+            }
+           
         }
 
         return dp[i][j] = ans;
