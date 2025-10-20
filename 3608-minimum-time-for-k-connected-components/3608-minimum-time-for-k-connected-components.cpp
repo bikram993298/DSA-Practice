@@ -1,57 +1,61 @@
-class DSU {
-public:
-    vector<int> parent, size;
-    int components;
+#include <bits/stdc++.h>
+using namespace std;
 
-    DSU(int n) {
+struct DSU {
+    vector<int> parent, sz;
+    int components;
+    DSU(int n=0) { init(n); }
+    void init(int n) {
         parent.resize(n);
-        size.assign(n, 1);
+        sz.assign(n, 1);
         iota(parent.begin(), parent.end(), 0);
         components = n;
     }
-
     int find(int x) {
-        if (parent[x] != x) parent[x] = find(parent[x]);
-        return parent[x];
+        return parent[x] == x ? x : parent[x] = find(parent[x]);
     }
-
     void unite(int a, int b) {
-        a = find(a);
-        b = find(b);
+        a = find(a); b = find(b);
         if (a == b) return;
-        if (size[a] < size[b]) swap(a, b);
+        if (sz[a] < sz[b]) swap(a, b);
         parent[b] = a;
-        size[a] += size[b];
+        sz[a] += sz[b];
         components--;
     }
 };
 
 class Solution {
 public:
-    bool canReduceToK(int n, vector<vector<int>>& edges, int k, int T) {
-        DSU dsu(n);
-        for (auto &e : edges) {
-            if (e[2] <= T)
-                dsu.unite(e[0], e[1]);
-        }
-        return dsu.components <= k;
-    }
-
+    // returns minimum T such that after removing edges with time <= T,
+    // the number of connected components >= k.
+    // If k > n return -1 (impossible).
     int minTime(int n, vector<vector<int>>& edges, int k) {
-        int low = 0, high = 0;
-        for (auto &e : edges)
-            high = max(high, e[2]);
+        if (k > n) return -1;          // impossible
+        int maxT = 0;
+        for (auto &e : edges) maxT = max(maxT, e[2]);
 
-        int ans = -1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (canReduceToK(n, edges, k, mid)) {
-                ans = mid;
-                high = mid - 1; // try smaller
+        // f(T): number of components after removing edges with time <= T
+        auto components_after_removals = [&](int T) {
+            DSU dsu(n);
+            for (auto &e : edges) {
+                // edge is active after time T if its failure time > T
+                if (e[2] > T) dsu.unite(e[0], e[1]);
+            }
+            return dsu.components;
+        };
+
+        int low = 0, high = maxT;
+        // binary search for smallest T with f(T) >= k
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (components_after_removals(mid) >= k) {
+                high = mid;
             } else {
-                low = mid + 1;  // need larger
+                low = mid + 1;
             }
         }
-        return ans == -1 ? high : ans;
+
+        // low is the smallest T with components >= k
+        return low;
     }
 };
