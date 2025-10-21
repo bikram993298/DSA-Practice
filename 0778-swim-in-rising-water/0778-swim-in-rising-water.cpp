@@ -52,3 +52,4 @@ public:
         return ans;
     }
 };
+//check function is doing that if parent of start and end is same ,if same then it is ans and ans can be reduced and if not then binary search more ans,,,check function traversion through matrix and going its 4 direction if less that mid then unite
