@@ -33,7 +33,7 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         int total = n * m;
-        int roof = total; // virtual roof node
+        int roof = 0; // virtual roof node
         DSU dsu(total + 1);
 
         auto id = [&](int i, int j) { return i * m + j; };
