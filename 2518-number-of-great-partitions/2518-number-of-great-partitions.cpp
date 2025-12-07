@@ -1,61 +1,27 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-    int n;
-    long long total_sum = 0;
-    vector<vector<int>> dp;  
-
-    int solve(int i, vector<int> &nums, int k, int sum) {
-        // If current sum has already reached or crossed k,
-        // this subset is NOT a "bad" subset -> 0 ways.
-        if (sum >= k) return 0;
-
-        // If we've placed all elements and sum < k, this is 1 valid bad subset
-        if (i == n) return 1;
-
-        int &res = dp[i][sum];
-        if (res != -1) return res;
-
-        long long notake = solve(i + 1, nums, k, sum);            // don't include nums[i]
-        long long take   = solve(i + 1, nums, k, sum + nums[i]);  // include nums[i]
-
-        res = (notake + take) % MOD;
-        return res;
+    long long dp[1001][1001];
+    long long min(long long a,long long b){
+        if(a<b)return a;
+        return b;
     }
-
-    long long modpow(long long a, long long e) {
-        long long r = 1;
-        while (e > 0) {
-            if (e & 1) r = (r * a) % MOD;
-            a = (a * a) % MOD;
-            e >>= 1;
-        }
-        return r;
-    }
-
     int countPartitions(vector<int>& nums, int k) {
-        n = (int)nums.size();
-        total_sum = 0;
-        for (int x : nums) total_sum += x;
-
-        // If total sum is less than 2*k, it's impossible
-        // for BOTH groups to have sum >= k.
-        if (total_sum < 2LL * k) return 0;
-
-        // dp size: n x k (we only care about sum 0..k-1)
-        dp.assign(n, vector<int>(k, -1));
-
-        // Count bad subsets: subsets whose sum < k
-        long long badOneSide = solve(0, nums, k, 0);
-
-        // Total ways to assign each element to group1 or group2
-        long long totalWays = modpow(2, n);
-
-        // Subtract bad partitions:
-        // each bad subset can be either bad group1 or bad group2 -> multiply by 2
-        long long ans = (totalWays - 2 * badOneSide) % MOD;
-        if (ans < 0) ans += MOD;
-
-        return (int)ans;
+        vector<int>a,b;
+        memset(dp,-1,sizeof(dp));
+        return solve(0,nums,k,0,0,0);
     }
+    
+    int solve(int st,vector<int>&nums,int &k,long long sm1,long long sm2,long long mnsm){
+        if(st>=nums.size()){
+            if(sm1>=k && sm2>=k)return 1;
+            return 0;
+        }
+        if(dp[st][mnsm]!=-1)return dp[st][mnsm];
+        
+        long long a1=solve(st+1,nums,k,sm1+nums[st],sm2,min(1000,min(sm1+nums[st],sm2)));
+        long long a2=solve(st+1,nums,k,sm1,sm2+nums[st],min(1000,min(sm1,sm2+nums[st])));
+        
+        return dp[st][mnsm]=(a1+a2)%(1000000007);
+    }
+
 };
