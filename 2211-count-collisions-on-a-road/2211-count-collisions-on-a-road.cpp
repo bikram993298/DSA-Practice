@@ -1,22 +1,36 @@
 class Solution {
 public:
     int countCollisions(string s) {
-        int n = s.size();
-        int i = 0, j = n - 1;
+        stack<char> st;
+        int n=s.size();
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='R'){
+                st.push(s[i]);
+            }else if(s[i]=='S'){
+                if(!st.empty()){
+                    ans=ans+1;
 
-        // skip all leading 'L' (they never collide)
-        while (i < n && s[i] == 'L') ++i;
+                    st.pop();
+                }
+            }else{
+                if(!st.empty()){
+                    if(st.top()!='S'){
+                        ans=ans+2;
+                        st.pop();
+                        st.push('S');
+                    }else{
+                        ans=ans+1;
+                        st.pop();
+                        st.push('S');
+                    }
+                    
+                }
+            }
+        }
 
-        // skip all trailing 'R' (they never collide)
-        while (j >= 0 && s[j] == 'R') --j;
-
-        if (i > j) return 0; // no colliding cars left
-
-        int ans = 0;
-        // count moving cars ('L' or 'R') in the middle segment [i..j]
-        for (int k = i; k <= j; ++k)
-            if (s[k] != 'S') ++ans;
 
         return ans;
+        
     }
 };
