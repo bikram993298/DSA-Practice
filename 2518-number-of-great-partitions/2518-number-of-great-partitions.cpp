@@ -44,7 +44,7 @@ public:
             total = (total * 2) % MOD;
 
         // final answer = total - 2 * bad
-        long long ans = (total - (2LL * bad) ) % MOD;
+        long long ans = (total - (2LL * bad) % MOD + MOD) % MOD;
 
         return (int)ans;
     }
