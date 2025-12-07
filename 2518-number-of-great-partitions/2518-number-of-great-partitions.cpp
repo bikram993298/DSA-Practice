@@ -1,27 +1,47 @@
 class Solution {
 public:
-    long long dp[1001][1001];
-    long long min(long long a,long long b){
-        if(a<b)return a;
-        return b;
-    }
-    int countPartitions(vector<int>& nums, int k) {
-        vector<int>a,b;
-        memset(dp,-1,sizeof(dp));
-        return solve(0,nums,k,0,0,0);
-    }
-    
-    int solve(int st,vector<int>&nums,int &k,long long sm1,long long sm2,long long mnsm){
-        if(st>=nums.size()){
-            if(sm1>=k && sm2>=k)return 1;
-            return 0;
+    static const long long MOD = 1000000007;
+    long long dp[1005][1005]; 
+    // dp[idx][sum] = number of subsets from idx with current sum = sum (sum < k)
+
+    long long solve(vector<int> &nums, int k, int idx, int sum) {
+        if (idx == nums.size()) {
+            return (sum < k) ? 1 : 0;
         }
-        if(dp[st][mnsm]!=-1)return dp[st][mnsm];
-        
-        long long a1=solve(st+1,nums,k,sm1+nums[st],sm2,min(1000,min(sm1+nums[st],sm2)));
-        long long a2=solve(st+1,nums,k,sm1,sm2+nums[st],min(1000,min(sm1,sm2+nums[st])));
-        
-        return dp[st][mnsm]=(a1+a2)%(1000000007);
+
+        if (dp[idx][sum] != -1) return dp[idx][sum];
+
+        long long choice1 = 0, choice2 = 0;
+
+        // take the element only if sum stays < k
+        if (sum + nums[idx] < k) {
+            choice1 = solve(nums, k, idx + 1, sum + nums[idx]);
+        }
+
+        // skip the element
+        choice2 = solve(nums, k, idx + 1, sum);
+
+        return dp[idx][sum] = (choice1 + choice2) % MOD;
     }
 
+    int countPartitions(vector<int> &nums, int k) {
+        long long totalSum = 0;
+        for (int n : nums) totalSum += n;
+
+        if (totalSum < 2LL * k) return 0;   // no valid partitions possible
+
+        memset(dp, -1, sizeof(dp));
+
+        // count subsets with sum < k
+        long long bad = solve(nums, k, 0, 0);
+
+        // total subsets = 2^n
+        long long total = 1;
+        for (int i = 1; i <= nums.size(); i++) total = (total * 2) % MOD;
+
+        // final answer = total - 2 * bad
+        long long ans = (total - (2 * bad) % MOD + MOD) % MOD;
+
+        return ans;
+    }
 };
