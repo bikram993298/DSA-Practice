@@ -1,47 +1,51 @@
 class Solution {
 public:
-    static const long long MOD = 1000000007;
-    long long dp[1005][1005]; 
-    // dp[idx][sum] = number of subsets from idx with current sum = sum (sum < k)
+    static const long long MOD = 1000000007LL;
 
-    long long solve(vector<int> &nums, int k, int idx, int sum) {
+    long long solve(const vector<int> &nums, int k, int idx, int sum,
+                    vector<vector<long long>> &dp) {
+
         if (idx == nums.size()) {
-            return (sum < k) ? 1 : 0;
+            return (sum < k) ? 1LL : 0LL;
         }
 
         if (dp[idx][sum] != -1) return dp[idx][sum];
 
-        long long choice1 = 0, choice2 = 0;
+        long long take = 0, skip = 0;
 
-        // take the element only if sum stays < k
+        // choose element if sum + nums[idx] stays < k
         if (sum + nums[idx] < k) {
-            choice1 = solve(nums, k, idx + 1, sum + nums[idx]);
+            take = solve(nums, k, idx + 1, sum + nums[idx], dp);
         }
 
-        // skip the element
-        choice2 = solve(nums, k, idx + 1, sum);
+        // skip element
+        skip = solve(nums, k, idx + 1, sum, dp);
 
-        return dp[idx][sum] = (choice1 + choice2) % MOD;
+        return dp[idx][sum] = (take + skip) % MOD;
     }
 
     int countPartitions(vector<int> &nums, int k) {
         long long totalSum = 0;
-        for (int n : nums) totalSum += n;
+        int n = nums.size();
+        for (int x : nums) totalSum += x;
 
-        if (totalSum < 2LL * k) return 0;   // no valid partitions possible
+        // impossible case
+        if (totalSum < 2LL * k) return 0;
 
-        memset(dp, -1, sizeof(dp));
+        // dp[idx][sum]
+        vector<vector<long long>> dp(n, vector<long long>(k, -1));
 
-        // count subsets with sum < k
-        long long bad = solve(nums, k, 0, 0);
+        // count bad subsets (sum < k)
+        long long bad = solve(nums, k, 0, 0, dp);
 
         // total subsets = 2^n
         long long total = 1;
-        for (int i = 1; i <= nums.size(); i++) total = (total * 2) % MOD;
+        for (int i = 0; i < n; i++)
+            total = (total * 2) % MOD;
 
         // final answer = total - 2 * bad
-        long long ans = (total - (2 * bad) % MOD + MOD) % MOD;
+        long long ans = (total - (2LL * bad) ) % MOD;
 
-        return ans;
+        return (int)ans;
     }
 };
