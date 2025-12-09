@@ -12,7 +12,7 @@ public:
 
         for (int i = 1; i < n; ++i) {
         
-            curr =min(curr - 1, maximumHeight[i]);
+            curr = max(0,min(curr - 1, maximumHeight[i]));
          
 
             maximumHeight[i] = curr;
