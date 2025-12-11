@@ -15,8 +15,9 @@ public:
             dp1[u] = val[u];
             for (int v : g[u]) {
                 if (v == p) continue;
-                dfs1(v, u);
+               
                 dp1[u] += max(0, dp1[v]);
+                 dfs1(v, u);
             }
         };
 
