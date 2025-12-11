@@ -31,8 +31,7 @@ public:
             }
         };
 
-        dfs2(0, -1, 0);   // ← You forgot this call
-
-        return ans;       // ← You also forgot this line
+        dfs2(0, -1, 0);   
+        return ans;       
     }
 };
