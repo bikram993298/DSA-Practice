@@ -11,7 +11,7 @@ public:
 
        
         if (i == m) {
-            return (prof == minProfit) ? 1 : 0;
+            return (prof >= minProfit) ? 1 : 0;
         }
 
         // cap profit
