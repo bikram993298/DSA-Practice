@@ -47,7 +47,8 @@ public:
     int n;
     vector<int> arr1, arr2;
     map<pair<int,int>, int> dp;
-
+    // Why map<pair<int,int>, int> and not a normal 2D DP array?
+    // because the prev value is 10^9 ,,so in this case make map
     int solve(int i, int prev) {
         if (i == n) return 0;
 
@@ -76,7 +77,7 @@ public:
         n = arr1.size();
 
         sort(arr2.begin(), arr2.end());
-        arr2.erase(unique(arr2.begin(), arr2.end()), arr2.end());
+        // arr2.erase(unique(arr2.begin(), arr2.end()), arr2.end());
 
         int res = solve(0, -1);
         return res >= INF ? -1 : res;
