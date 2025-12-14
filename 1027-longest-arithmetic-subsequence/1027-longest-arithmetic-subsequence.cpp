@@ -65,7 +65,8 @@ public:
                 
                 int diff    = nums[i] - nums[j] + 500; //to avoid negative diff
                 
-                t[i][diff] = t[j][diff] > 0 ? t[j][diff] + 1 : 2;
+                int temp = t[j][diff] > 0 ? t[j][diff] + 1 : 2;
+                t[j][diff]=max(t[j][diff],temp);
                 
                 result      = max(result, t[i][diff]);
             }
