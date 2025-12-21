@@ -21,7 +21,7 @@ public:
 
 
         ll not_take=LLONG_MIN;
-        ll take=LLONG_MIN;
+        ll take;
         if(start_new==true){
             not_take=solve(i+1,k,nums,start_new);
         }
