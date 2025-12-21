@@ -50,3 +50,4 @@ public:
         
     }
 };
+// there will be three choices no ttake,,,take adn continue means increase index but no change in k ,,,another take and maek subarray  inrease inndex and k--,,,there will be catch if you are adding just subarray elemnt,,means not decreasing k,,that means in next turn you can not take element,,becuase for not taking you have no finish the subarray choose the thrid option 
