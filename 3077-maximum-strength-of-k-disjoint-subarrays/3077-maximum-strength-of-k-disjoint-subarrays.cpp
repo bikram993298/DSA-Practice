@@ -20,8 +20,8 @@ public:
 
 
 
-        ll not_take=LLONG_MIN/4;
-        ll take=LLONG_MIN/4;
+        ll not_take=LLONG_MIN;
+        ll take=LLONG_MIN;
         if(start_new==true){
             not_take=solve(i+1,k,nums,start_new);
         }
