@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 ## Queue
 |  |
 | ------- |
@@ -47,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 <!---LeetCode Topics End-->
