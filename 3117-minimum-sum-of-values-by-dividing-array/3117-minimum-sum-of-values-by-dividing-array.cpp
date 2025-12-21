@@ -24,7 +24,7 @@ public:
                       nums[i] + solve(i+1, j+1, FULL,
                                       nums, andValues));
         }
-
+// and is  monontonic decreasing maximum 30 syayes because in one state 1 bit flip
         // continue segment
         if (newAnd >= andValues[j]) {
             ans = min(ans,
