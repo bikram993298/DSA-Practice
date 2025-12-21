@@ -10,10 +10,12 @@ public:
             return 0;
         }
         if(i>=n) return LLONG_MIN/4;
+        //when take maximim oupt and to overflow write this wau
 
 
         if(dp[i][k][start_new]!=LLONG_MIN){
             return dp[i][k][start_new];
+            // here not -1 becase it can be valid ans
         }
 
 
