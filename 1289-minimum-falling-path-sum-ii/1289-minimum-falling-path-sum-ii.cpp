@@ -1,40 +1,37 @@
 class Solution {
 public:
-    int n;
-    int m;
-    vector<vector<int>> dp;
-
-    int solve(int r,int c,vector<vector<int>>& grid){
-
-        if(r==n) return 0;
-
-        // memo check
-        if(dp[r][c] != INT_MAX) return dp[r][c];
-
-        int take=0;
-        int res=INT_MAX;
-        for(int i=0;i<m;i++){
-            if(i!=c){
-                take=grid[r][i]+solve(r+1,i,grid);
-                res=min(take,res);
-            }
-        }
-
-        return dp[r][c] = res;
-    }
-
     int minFallingPathSum(vector<vector<int>>& grid) {
-        n=grid.size();
-        m=grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
 
-        // initialize memo table
-        dp.assign(n, vector<int>(m, INT_MAX));
+        vector<int> prev = grid[0];
 
-        int ans=INT_MAX;
-        for(int i=0;i<m;i++){
-            ans=min(ans,grid[0][i]+solve(1,i,grid));
+        for (int r = 1; r < n; r++) {
+
+            // find smallest & second smallest in prev row
+            int min1 = INT_MAX, min2 = INT_MAX, idx = -1;
+
+            for (int c = 0; c < m; c++) {
+                if (prev[c] < min1) {
+                    min2 = min1;
+                    min1 = prev[c];
+                    idx = c;
+                } else if (prev[c] < min2) {
+                    min2 = prev[c];
+                }
+            }
+
+            vector<int> cur(m);
+            for (int c = 0; c < m; c++) {
+                if (c == idx)
+                    cur[c] = grid[r][c] + min2;
+                else
+                    cur[c] = grid[r][c] + min1;
+            }
+
+            prev = cur;
         }
 
-        return ans;
+        return *min_element(prev.begin(), prev.end());
     }
 };
