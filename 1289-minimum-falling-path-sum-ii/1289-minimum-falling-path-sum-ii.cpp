@@ -15,7 +15,7 @@ public:
         int res=INT_MAX;
         for(int i=0;i<m;i++){
             if(i!=c){
-                take=grid[r][c]+solve(r+1,i,grid);
+                take=grid[r][i]+solve(r+1,i,grid);
                 res=min(take,res);
             }
         }
