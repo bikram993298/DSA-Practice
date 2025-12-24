@@ -29,7 +29,7 @@ public:
 
 class Solution {
 public:
-    vector<vector<string>> mergeDetails(vector<vector<string>>& details) {
+    vector<vector<string>> accountsMerge(vector<vector<string>>& details) {
         int n = details.size();
         DSU ds(n);
         unordered_map<string, int> mapMailNode;
