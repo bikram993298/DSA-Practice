@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bikram993298/DSA-Practice/tree/master/0027-remove-element) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/bikram993298/DSA-Practice/tree/master/0027-remove-element) |
 | [0556-next-greater-element-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
