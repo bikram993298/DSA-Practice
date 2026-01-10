@@ -35,25 +35,19 @@
 // };
 class Solution {
 public:
-    int countPair(vector<int>& nums , int diff)
+    int countPair(vector<int>& nums , int mid)
     {
-        int n = nums.size();
-        int i=0;
-        int j = i+1;
-        int countAllPair = 0;
-        while(i < n && j<n)
-        {
-            if(abs(nums[i] -nums[j]) <= diff)
-            {
-                countAllPair += (j-i);
-                j++;
-            }else
-            {
-                i++;   
+        int count = 0;
+        int left = 0;
+        for (int right = 0; right < nums.size(); ++right) {
+            // Shrink the window from the left if distance is too large
+            while (nums[right] - nums[left] > mid) {
+                left++;
             }
+            // All elements between left and right form a valid pair with nums[right]
+            count += (right - left);
         }
-
-        return countAllPair;
+        return count;
     }
     int smallestDistancePair(vector<int>& nums, int k) {
         int n = nums.size();
