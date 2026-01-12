@@ -14,8 +14,8 @@ public:
             else {
                 // if i+k surpass j
                 if (i + k + 1 > j) {
-                    i = j + k - 1;
-                    // i = i + k + 1;
+                    // i = j + k - 1;
+                    i = i + k + 1;
                 }
                 else {
                     i = j;
