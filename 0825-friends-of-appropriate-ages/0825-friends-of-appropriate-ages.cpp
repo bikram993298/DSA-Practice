@@ -18,9 +18,9 @@ public:
             int right =distance(ages.begin(), it_high) - 1;
             //distance gives 0 based index form iterator
 
-            if (right >= left) {
+            // if (right >= left) {
                 totalRequests += (right - left);
-            }
+            // }
         }
         return totalRequests;
     }
