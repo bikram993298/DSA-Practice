@@ -60,7 +60,7 @@ public:
         a = headA;
         b = headB;
 
-        // Move the longer list ahead
+        // Move the longer list ahead make them euqla lenthg by ehich is linger
         while(lenA>lenB){
             lenA--;
             a=a->next;
@@ -79,3 +79,6 @@ public:
         return nullptr;
     }
 };
+
+//o(n)
+//o(1)
