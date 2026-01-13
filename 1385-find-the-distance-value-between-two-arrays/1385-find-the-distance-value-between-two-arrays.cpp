@@ -19,3 +19,4 @@ public:
 };
 // 4 5 8
 // 1 8 9 10 
+// for every elemnt in arr1 we have to find there exist no elemnt such that range x-d and x+d so at first sort secobd array then find lower boud then if it if lower boud bigger than every elemnt of arr2 thne it==arr2.seocnd cond hit and if we got other then fint if it is bigger than x+d then ans++
