@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/bikram993298/DSA-Practice/tree/master/0050-powx-n) |
 | [0556-next-greater-element-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## String
@@ -215,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bikram993298/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
