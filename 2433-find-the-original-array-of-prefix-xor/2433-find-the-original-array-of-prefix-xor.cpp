@@ -12,6 +12,11 @@ public:
         
     }
 };
+//tc=o(n)
+//sc=o(n)
+
+// below is more like space effcient more so we need pref[i-1] and pref[i] so go from n-1 to 0 ,,,
+// and like prefixsum ans[i]=prefixsem[i]^prefixsum[i-1]
 
 
 // class Solution {
