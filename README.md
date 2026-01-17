@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 ## Tree
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
