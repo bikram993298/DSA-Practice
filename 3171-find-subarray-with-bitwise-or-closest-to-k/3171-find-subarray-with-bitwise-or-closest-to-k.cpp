@@ -30,18 +30,19 @@ public:
         for (int r = 0; r < n; r++) {
             add(nums[r]);
 
-            while (l <= r) {
-                int curOR = getOR();
+            int curOR = getOR();
+            ans = min(ans, abs(curOR - k));
+            if (ans == 0) return 0;
+
+            while (l <= r && curOR >= k) {
+                remove(nums[l]);
+                l++;
+
+                if (l > r) break; // ❗ window empty, stop
+
+                curOR = getOR();
                 ans = min(ans, abs(curOR - k));
                 if (ans == 0) return 0;
-
-                // shrink only when OR >= k (try to get closer)
-                if (curOR >= k) {
-                    remove(nums[l]);
-                    l++;
-                } else {
-                    break;
-                }
             }
         }
 
