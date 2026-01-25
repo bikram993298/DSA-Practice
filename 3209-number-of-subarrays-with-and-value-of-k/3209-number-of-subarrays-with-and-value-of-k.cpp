@@ -1,50 +1,49 @@
-class Solution
-{
+class Solution {
 public:
-    long long countSubarrays(vector<int> &nums, int k)
-    {
+    long long countSubarrays(vector<int>& nums, int k) {
         return atLeastK(nums, k) - atLeastK(nums, k + 1);
     }
-    long long atLeastK(vector<int>& nums, int k){
+
+    long long atLeastK(vector<int>& nums, int k) {
+        int n = nums.size();
+        vector<int> bit(32, 0);
         long long ans = 0;
-        vector<int> temp(32, 0);
 
         int l = 0;
-        for (int r = 0; r < nums.size(); r++)
-        {
-            for (int i = 0; i < 32; i++)
-            {
-                if ((1 << i) & nums[r])
-                {
-                    temp[i]++;
-                }
-            }
+        for (int r = 0; r < n; r++) {
 
-            while ((r - l + 1) > 0 && calc(temp, r - l + 1) < k)
-            {
-                for (int i = 0; i < 32; i++)
-                {
-                    if ((1 << i) & nums[l])
-                    {
-                        temp[i]--;
-                    }
-                }
+            // add nums[r] into window
+            add(bit, nums[r]);
+
+            // shrink window until AND >= k
+            while (l <= r && getAND(bit, r - l + 1) < k) {
+                remove(bit, nums[l]);
                 l++;
             }
+
+            // all subarrays ending at r and starting from l..r are valid
             ans += (r - l + 1);
         }
- 
         return ans;
     }
 
-    //function to calculate the AND from frequency vector
-    int calc(vector<int>& temp, int w){
-        int ans = 0;
-        for (int i = 0; i < 32;i++){
-            if(temp[i]==w)
-                ans += (1 << i);
+    void add(vector<int>& bit, int x) {
+        for (int i = 0; i < 32; i++) {
+            if (x & (1 << i)) bit[i]++;
         }
+    }
 
-        return ans;
+    void remove(vector<int>& bit, int x) {
+        for (int i = 0; i < 32; i++) {
+            if (x & (1 << i)) bit[i]--;
+        }
+    }
+
+    int getAND(vector<int>& bit, int len) {
+        int res = 0;
+        for (int i = 0; i < 32; i++) {
+            if (bit[i] == len) res |= (1 << i);  // bit must be present in all elements
+        }
+        return res;
     }
 };
