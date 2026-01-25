@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3133-minimum-array-end](https://github.com/bikram993298/DSA-Practice/tree/master/3133-minimum-array-end) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Tree
 |  |
 | ------- |
@@ -110,10 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Segment Tree
 |  |
 | ------- |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 ## Two Pointers
 |  |
 | ------- |
