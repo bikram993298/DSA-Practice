@@ -5,6 +5,7 @@ public:
         for (auto &e : edges) {
             int u = e[0], v = e[1], s = e[2], en = e[3];
             adj[u].push_back({v, s, en});
+            //node to adjacent node,starting time,endin time
         }
 
         const long long INF = 1e18;
@@ -19,6 +20,8 @@ public:
 
         while (!pq.empty()) {
             auto [t, u] = pq.top();
+            // t tis time
+            // u is node
             pq.pop();
 
             // if (t != dist[u]) continue;
