@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Simulation
 |  |
 | ------- |
@@ -302,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 <!---LeetCode Topics End-->
