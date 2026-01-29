@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
+| [3814-maximum-capacity-within-budget](https://github.com/bikram993298/DSA-Practice/tree/master/3814-maximum-capacity-within-budget) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
+| [3814-maximum-capacity-within-budget](https://github.com/bikram993298/DSA-Practice/tree/master/3814-maximum-capacity-within-budget) |
 ## Segment Tree
 |  |
 | ------- |
