@@ -27,3 +27,30 @@ public:
         return ans;
     }
 };
+
+
+// tickets = [
+//  ["JFK","KUL"],
+//  ["JFK","NRT"],
+//  ["NRT","JFK"]
+// ]
+
+
+// dfs("JFK")
+//  ├── pop "KUL"
+//  │    dfs("KUL")
+//  │     └── no edges
+//  │     └── ans.push("KUL")
+//  ├── pop "NRT"
+//  │    dfs("NRT")
+//  │     ├── pop "JFK"
+//  │     │    dfs("JFK")
+//  │     │     └── no edges
+//  │     │     └── ans.push("JFK")
+//  │     └── ans.push("NRT")
+//  └── ans.push("JFK")
+
+
+// ["KUL", "JFK", "NRT", "JFK"]
+// Final Answer (after reverse)
+// ["JFK", "NRT", "JFK", "KUL"]
