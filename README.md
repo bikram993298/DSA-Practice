@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Memoization
 |  |
 | ------- |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -313,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 ## Graph Theory
@@ -329,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 ## Shortest Path
@@ -348,8 +354,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
+## Ordered Set
+|  |
+| ------- |
+| [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 <!---LeetCode Topics End-->
