@@ -1,50 +1,49 @@
 class Solution {
 public:
     vector<int> shortestAlternatingPaths(int n, vector<vector<int>>& redEdges, vector<vector<int>>& blueEdges) {
-       
-        vector<vector<int>> adj[2];
-        adj[0].resize(n);
-        adj[1].resize(n);
+      
+        vector<vector<pair<int, int>>> adj(n);
+        for (auto& it : redEdges) {
+            adj[it[0]].push_back({it[1], 1});
+        }
+        for (auto& it : blueEdges) {
+            adj[it[0]].push_back({it[1], 0});
+        }
+
+      
+        vector<vector<int>> dist(n, vector<int>(2, -1));
+        dist[0][0] = 0; 
+        dist[0][1] = 0; 
         
-        for (auto& edge : redEdges) adj[0][edge[0]].push_back(edge[1]);
-        for (auto& edge : blueEdges) adj[1][edge[0]].push_back(edge[1]);
-
-        vector<int> res(n, -1);
-    
-        vector<vector<bool>> visited(n, vector<bool>(2, false));
-
-     
-        queue<vector<int>> q;
-
-     
-        q.push({0, 0, 0});
-        q.push({0, 0, 1});
-        visited[0][0] = true;
-        visited[0][1] = true;
+        queue<pair<int, int>> q; 
+        q.push({0, 1});
+        q.push({0, 0}); 
 
         while (!q.empty()) {
-            vector<int> curr = q.front();
+            auto [u, lastCol] = q.front();
             q.pop();
 
-            int u = curr[0];
-            int dist = curr[1];
-            int lastCol = curr[2];
-
-           
-            if (res[u] == -1 || dist < res[u]) {
-                res[u] = dist;
-            }
-
-            int nextCol = 1 - lastCol;
-
-            for (int v : adj[nextCol][u]) {
-                if (!visited[v][nextCol]) {
-                    visited[v][nextCol] = true;
-                    q.push({v, dist + 1, nextCol});
+            for (auto& [v, edgeCol] : adj[u]) {
+                
+                if (edgeCol != lastCol && dist[v][edgeCol] == -1) {
+                    dist[v][edgeCol] = dist[u][lastCol] + 1;
+                    q.push({v, edgeCol});
                 }
             }
         }
 
+        vector<int> res(n);
+        for (int i = 0; i < n; i++) {
+            if (dist[i][0] == -1 && dist[i][1] == -1) {
+                res[i] = -1;
+            } else if (dist[i][0] == -1) {
+                res[i] = dist[i][1];
+            } else if (dist[i][1] == -1) {
+                res[i] = dist[i][0];
+            } else {
+                res[i] = min(dist[i][0], dist[i][1]);
+            }
+        }
         return res;
     }
 };
