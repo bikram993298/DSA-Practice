@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
+| [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask DP
 |  |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
+| [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -352,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
