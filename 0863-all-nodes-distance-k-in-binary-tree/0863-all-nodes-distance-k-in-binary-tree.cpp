@@ -1,6 +1,7 @@
 class Solution {
 public:
     unordered_map<TreeNode*, TreeNode*> parent;
+    // for AXPAANTION SEE HARD COPY WHITE SRASWATI KHATA
 
     // DFS to build parent mapping (NO QUEUE)
     void buildParent(TreeNode* root, TreeNode* par = nullptr) {
