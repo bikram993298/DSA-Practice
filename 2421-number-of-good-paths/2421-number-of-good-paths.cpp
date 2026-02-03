@@ -31,16 +31,21 @@ public:
             adj[e[1]].push_back(e[0]);
         }
 
-        // value -> list of nodes
+        // value -> list of nodes index
+        // 1->0,3
+        // 2->2
+        // 3->1,4
         map<int, vector<int>> nodesByValue;
         for (int i = 0; i < n; i++)
             nodesByValue[vals[i]].push_back(i);
+            // we will traverse value by value
 
         vector<bool> active(n, false);
         int ans = n; // each node alone
 
         for (auto &[value, nodes] : nodesByValue) {
             // activate nodes
+            //for each value we will collect same value nodes then ckec if there sny egde taht connect any node with active 
             for (int u : nodes) {
                 active[u] = true;
                 for (int v : adj[u]) {
@@ -51,6 +56,7 @@ public:
             }
 
             // count nodes with this value per component
+            ///as we traverse value by value so now in for fixed value we have to find cevery component how many that value apperas for node exist by count map then applu formula
             unordered_map<int, int> count;
             for (int u : nodes) {
                 count[find(u)]++;
