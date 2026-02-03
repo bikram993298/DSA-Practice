@@ -67,7 +67,7 @@
 //         return ans;
 //     }
 // };
-// yhis one approach building ajanecy with values and int ot ovector o fint as normal adjancey
+// yhis one approach building ajanecy with values and int ot ovector o fint as normal adjancey ans playing wiht the node->val
 class Solution {
 public:
     unordered_map<int, vector<int>> adj;
