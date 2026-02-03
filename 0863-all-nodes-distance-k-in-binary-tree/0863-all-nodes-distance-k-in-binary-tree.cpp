@@ -1,19 +1,23 @@
 class Solution {
 public:
-    unordered_map<TreeNode*, TreeNode*> parent;
-    // for AXPAANTION SEE HARD COPY WHITE SRASWATI KHATA
-
-    // DFS to build parent mapping (NO QUEUE)
-    void buildParent(TreeNode* root, TreeNode* par = nullptr) {
-        if (!root) return;
-
-        parent[root] = par;
-        buildParent(root->left, root);
-        buildParent(root->right, root);
-    }
-
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        buildParent(root);
+
+        unordered_map<TreeNode*, TreeNode*> parent;
+
+        function<void(TreeNode*)> buildgraph = [&](TreeNode* node) {
+            if (!node) return;
+
+            if (node->left) {
+                parent[node->left] = node;
+                buildgraph(node->left);
+            }
+            if (node->right) {
+                parent[node->right] = node;
+                buildgraph(node->right);
+            }
+        };
+
+        buildgraph(root);
 
         unordered_set<TreeNode*> visited;
         queue<TreeNode*> q;
@@ -28,9 +32,7 @@ public:
 
             if (dist == k) break;
 
-            dist++;
-
-            for (int i = 0; i < size; i++) {
+            while (size--) {
                 TreeNode* node = q.front();
                 q.pop();
 
@@ -38,15 +40,18 @@ public:
                     visited.insert(node->left);
                     q.push(node->left);
                 }
+
                 if (node->right && !visited.count(node->right)) {
                     visited.insert(node->right);
                     q.push(node->right);
                 }
-                if (parent[node] && !visited.count(parent[node])) {
+
+                if (parent.count(node) && !visited.count(parent[node])) {
                     visited.insert(parent[node]);
                     q.push(parent[node]);
                 }
             }
+            dist++;
         }
 
         vector<int> ans;
@@ -54,7 +59,7 @@ public:
             ans.push_back(q.front()->val);
             q.pop();
         }
-
+// after first levle or in fiest iteration all 0th level in ques then 2nd level then h=third  level like wise so for 3 rd level nodes we need if ist==3 then break and all remaining in ques will be third
         return ans;
     }
 };
