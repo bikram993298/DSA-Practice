@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Depth-First Search
 |  |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 ## Eulerian Circuit
