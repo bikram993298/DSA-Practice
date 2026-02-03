@@ -9,6 +9,9 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ // there is two variation of graph making one is adj int to vector int 
+ // anotehr one is unorders map tree node to tree node
+ //first ine is easy
 
 class Solution {
 public:
