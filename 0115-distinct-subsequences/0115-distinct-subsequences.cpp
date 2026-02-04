@@ -1,3 +1,28 @@
+
+// s = "aaaaaaaaaaaaaaaaaaaaaaaaaa"  (30 times 'a')
+// t = "aaaaaaaaaaaaaaa"            (15 times 'a')
+// Then:
+
+// Every valid subsequence is just choosing 15 positions out of 30
+
+// Order is fixed, only positions matter
+
+// So the answer is:
+
+// mathematica
+// Copy code
+// Number of ways = C(30,15)
+// Which equals:
+
+// Copy code
+// 155,117,520
+// ⚠️ That’s already very large — and this is a small case.
+
+
+
+
+
+
 class Solution {
 public:
   vector<vector<long long>> dp;
