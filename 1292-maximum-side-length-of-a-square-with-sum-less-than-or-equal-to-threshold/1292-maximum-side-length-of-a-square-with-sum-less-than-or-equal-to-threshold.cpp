@@ -38,7 +38,7 @@
 
 
 // // O(m * n * min(m, n))
-
+// always in 2d prefissum use 1 based iindexing like if you eant osme till 3,3 index inr eal,,we have to get(4,4) in prefisum  hope you got
 
 class Solution {
 public:
