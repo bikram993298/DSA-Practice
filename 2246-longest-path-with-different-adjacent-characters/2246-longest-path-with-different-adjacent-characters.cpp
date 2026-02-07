@@ -3,7 +3,7 @@ public:
     int ans = 1;
     vector<vector<int>> adj;
     string s;
-
+//same as Binary Tree Maximum Path Sum but her enarray tree so children and we hve find first max,,second max then make ans and return max1 +1
     int dfs(int u) {
         int mx1 = 0, mx2 = 0;
 
