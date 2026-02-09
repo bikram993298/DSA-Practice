@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 ## Memoization
 |  |
 | ------- |
