@@ -25,7 +25,7 @@ public:
         }
 
         // Not BST
-        long long maxsum = max(left[2], right[2]);
+        long long maxsum = 0;
         return {(long long)INT_MIN, (long long)INT_MAX, maxsum};
     }
 
