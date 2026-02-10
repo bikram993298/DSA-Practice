@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
