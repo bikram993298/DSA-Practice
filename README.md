@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 ## Bitmask DP
@@ -453,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
