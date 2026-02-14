@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Trie
 |  |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -472,4 +476,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
