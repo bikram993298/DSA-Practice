@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
 |  |
