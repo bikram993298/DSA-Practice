@@ -15,3 +15,4 @@ public:
             return searchBST(root->right, val);
     }
 };
+//tc logn
