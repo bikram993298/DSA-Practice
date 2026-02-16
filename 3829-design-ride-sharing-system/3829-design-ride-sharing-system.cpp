@@ -20,25 +20,47 @@ public:
         
     }
     
-    vector<int> matchDriverWithRider() {
-        if(rider.empty() || driver.empty()) return {-1,-1};
+    // vector<int> matchDriverWithRider() {
+    //     if(rider.empty() || driver.empty()) return {-1,-1};
 
-        int rtop=rider.front();
-        while(cancel.count(rtop)){
-            rider.pop();
-             if(rider.empty()) return {-1,-1};
-            rtop=rider.front();
-        }
+    //     int rtop=rider.front();
+    //     while(cancel.count(rtop)){
+    //         rider.pop();
+    //          if(rider.empty()) return {-1,-1};
+    //         rtop=rider.front();
+    //     }
        
-        rider.pop();
-        int dtop=driver.front();
-        driver.pop();
+    //     rider.pop();
+    //     int dtop=driver.front();
+    //     driver.pop();
 
-        return {dtop,rtop};
+    //     return {dtop,rtop};
 
 
         
+    // }
+    vector<int> matchDriverWithRider() {
+
+    // remove cancelled riders from front
+    while(!rider.empty() && cancel.count(rider.front())) {
+        rider.pop();
     }
+
+    // if no rider or no driver available
+    if(rider.empty() || driver.empty()) {
+        return {-1, -1};
+    }
+
+    // get earliest rider and driver
+    int riderId = rider.front();
+    int driverId = driver.front();
+
+    rider.pop();
+    driver.pop();
+
+    return {driverId, riderId};
+}
+
     
     void cancelRider(int riderId) {
 
