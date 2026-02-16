@@ -112,7 +112,7 @@
 class Solution {
 public:
 
-    long long NEG = LLONG_MIN/2;
+    long long NEG = LLONG_MIN;
     vector<vector<vector<long long>>> dp;
     int n,m;
 
