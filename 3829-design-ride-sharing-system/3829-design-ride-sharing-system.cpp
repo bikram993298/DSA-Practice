@@ -26,9 +26,10 @@ public:
         int rtop=rider.front();
         while(cancel.count(rtop)){
             rider.pop();
+             if(rider.empty()) return {-1,-1};
             rtop=rider.front();
         }
-        if(rider.empty()) return {-1,-1};
+       
         rider.pop();
         int dtop=driver.front();
         driver.pop();
