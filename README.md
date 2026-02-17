@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/bikram993298/DSA-Practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3133-minimum-array-end](https://github.com/bikram993298/DSA-Practice/tree/master/3133-minimum-array-end) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/bikram993298/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Tree
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3814-maximum-capacity-within-budget](https://github.com/bikram993298/DSA-Practice/tree/master/3814-maximum-capacity-within-budget) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/bikram993298/DSA-Practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Segment Tree
 |  |
 | ------- |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Linked List
 |  |
 | ------- |
