@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Eulerian Circuit
 |  |
 | ------- |
