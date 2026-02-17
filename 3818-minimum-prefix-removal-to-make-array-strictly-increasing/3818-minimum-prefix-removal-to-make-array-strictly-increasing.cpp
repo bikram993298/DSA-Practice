@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumPrefixLength(vector<int>& nums) {
         int n=nums.size();
-        int cnt=0;
+        int cnt=1;
         for(int i=n-1;i>0;i--){
             if(nums[i]>nums[i-1]){
                 cnt++;
@@ -13,6 +13,6 @@ public:
         }
         
     }
-    return n-cnt-1;
+    return n-cnt;
     }
 };
