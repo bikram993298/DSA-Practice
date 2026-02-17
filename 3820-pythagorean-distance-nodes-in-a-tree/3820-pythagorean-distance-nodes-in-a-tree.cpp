@@ -37,16 +37,25 @@ public:
             int b = distY[i];
             int c = distZ[i];
 
-            // sort manually
-            if (a > b)
-                swap(a, b);
-            if (b > c)
-                swap(b, c);
-            if (a > b)
-                swap(a, b);
+            // // sort manually
+            // if (a > b)
+            //     swap(a, b);
+            // if (b > c)
+            //     swap(b, c);
+            // if (a > b)
+            //     swap(a, b);
 
-            if (1LL*a * a +1LL* b * b == 1LL*c * c)
-                count++;
+            // if (1LL*a * a +1LL* b * b == 1LL*c * c)
+            //     count++;
+           
+
+int mn = min({a, b, c});
+int mx = max({a, b, c});
+int mid = a + b + c - mn - mx;
+
+if(1LL*mn*mn + 1LL*mid*mid == 1LL*mx*mx)
+    count++;
+
         }
 
         return count;
