@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/bikram993298/DSA-Practice/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/bikram993298/DSA-Practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Dynamic Programming
