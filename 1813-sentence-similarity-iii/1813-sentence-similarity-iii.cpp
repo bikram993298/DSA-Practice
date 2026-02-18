@@ -43,7 +43,9 @@ public:
       
         int i = w1.size() - 1;
         int j = w2.size() - 1;
-
+        //"My name is Haley", sentence2 = "My name name Haley"
+        // m=is in name(first)
+         // if you dont use i>=l thne name haley will be also mathced so wrong ,,so main target all elemnt of smaller substring is matched end to end
         while(i >= l && j >= m) {
             if(w1[i] == w2[j]) {
                 i--;
