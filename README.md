@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bikram993298/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bikram993298/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
