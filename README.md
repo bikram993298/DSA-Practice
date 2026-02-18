@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Counting
 |  |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -557,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
 |  |
