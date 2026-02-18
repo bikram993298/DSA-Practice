@@ -1,7 +1,6 @@
 class Solution {
 public:
-
-    vector<string> getWords(string s) {
+   vector<string> getWords(string s) {
 
         vector<string> words;
         stringstream ss(s);
@@ -13,28 +12,48 @@ public:
 
         return words;
     }
-
     bool areSentencesSimilar(string sentence1, string sentence2) {
-
+     
         vector<string> w1 = getWords(sentence1);
         vector<string> w2 = getWords(sentence2);
 
-        // Always make w1 the smaller sentence
-        if(w1.size() > w2.size())
+
+         if(w2.size() > w1.size())
             swap(w1, w2);
+        int n=w1.size();
+        int l=0;
+        int r=n-1;
+        int m=0;
+    
+      
+        
+// prefix match
+        while(l<w1.size()&& m<w2.size()){
+            if(w1[l]==w2[m]){
+                l++;
+                m++;
 
-        int i = 0;
-        int j = 0;
+            }else{
+                break;
+            }
+           
+        }
 
-        // match prefix
-        while(i < w1.size() && w1[i] == w2[i])
-            i++;
+        //siffix mathc
+      
+        int i = w1.size() - 1;
+        int j = w2.size() - 1;
 
-        // match suffix
-        while(j < w1.size() - i &&
-              w1[w1.size()-1-j] == w2[w2.size()-1-j])
-            j++;
+        while(i >= l && j >= m) {
+            if(w1[i] == w2[j]) {
+                i--;
+                j--;
+            } else {
+                break;
+            }
+        }
 
-        return i + j >= w1.size();
+        return j<m;
+       
     }
 };
