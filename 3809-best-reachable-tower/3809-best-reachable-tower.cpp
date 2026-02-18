@@ -23,6 +23,7 @@ public:
 
                 // push quality,
                 // and negative coordinates for lexicographic min
+                // max heap max quality but coordinate nedd reverse min or create custom operator or use minize
                 pq.push({q, {-x, -y}});
             }
         }
