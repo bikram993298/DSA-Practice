@@ -30,6 +30,7 @@ public:
     
     int getHighestBidder(int itemId) {
         //  if(!pq.count(itemId)) return -1;
+        // main concept when you updated new vlau ein bid then you cannot chnage form prioryt ques,,here comes lzy deleltion so in lazy deleltion we oush all in ques bu t,,when return we return top and check it is same value exist in map,,as remove and update can happen,,for removal check count map,,for update check bid value is same as map,and priory que or not ,other wise pop them
 
 
          
@@ -51,7 +52,7 @@ public:
 
 
 
-      
+      //o(logn) amortized becuase every lazy is popped once
        
         return -1;
     }
