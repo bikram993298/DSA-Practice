@@ -57,3 +57,4 @@ public:
        
     }
 };
+// main idea is too mathc prefic from forwarn iff mistmacth suffis form backwaRD IF MATCH form prefix is m and mathc form suffixj if j<m then all mismatched
