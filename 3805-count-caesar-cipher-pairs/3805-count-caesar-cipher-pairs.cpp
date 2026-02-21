@@ -8,7 +8,7 @@ public:
         string res;
 
         for(char c : s) {
-
+// like we have implemented to become all string to come in same stansdrad make all first a then how much to make a subtract that,somehow if substraction becones -shift modulo by 26 becuase it was told that z before a
             res.push_back((c - shift ) % 26 + 'a');
         }
 
