@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3809-best-reachable-tower](https://github.com/bikram993298/DSA-Practice/tree/master/3809-best-reachable-tower) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/bikram993298/DSA-Practice/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/bikram993298/DSA-Practice/tree/master/3811-number-of-alternating-xor-partitions) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3133-minimum-array-end](https://github.com/bikram993298/DSA-Practice/tree/master/3133-minimum-array-end) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/bikram993298/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/bikram993298/DSA-Practice/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Tree
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Greedy
 |  |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
+| [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/bikram993298/DSA-Practice/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Hash Table
 |  |
