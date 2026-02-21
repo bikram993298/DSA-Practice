@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> wordSquares(vector<string>& words) {
-        auto s = words; // Store 
+        auto s = words; 
        sort(s.begin(),s.end());
         vector<vector<string>> result;
         int n = words.size();
