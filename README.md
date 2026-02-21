@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
+| [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Greedy
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3798-largest-even-number](https://github.com/bikram993298/DSA-Practice/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3803-count-residue-prefixes](https://github.com/bikram993298/DSA-Practice/tree/master/3803-count-residue-prefixes) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3813-vowel-consonant-score](https://github.com/bikram993298/DSA-Practice/tree/master/3813-vowel-consonant-score) |
@@ -425,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
+| [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Linked List
@@ -458,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
+| [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 ## Bitmask DP
 |  |
 | ------- |
