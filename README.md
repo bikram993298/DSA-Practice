@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
+| [3788-maximum-score-of-a-split](https://github.com/bikram993298/DSA-Practice/tree/master/3788-maximum-score-of-a-split) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
+| [3788-maximum-score-of-a-split](https://github.com/bikram993298/DSA-Practice/tree/master/3788-maximum-score-of-a-split) |
 | [3814-maximum-capacity-within-budget](https://github.com/bikram993298/DSA-Practice/tree/master/3814-maximum-capacity-within-budget) |
 ## Binary Search
 |  |
