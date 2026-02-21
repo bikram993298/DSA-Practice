@@ -28,6 +28,16 @@ public:
                                         //    ans.push_back(s[l]);
                                         // sort(ans.begin(),ans.end());
                                         // cout<<ans<<endl;
+                                        //for lexicographically ascendind order and fill then codinitins 4 condition, means  ["able","area","echo","also"],["area","able","also","echo"]]
+                                        //means able come before the second ouput area  so we have initially sort 
+
+
+                                        //if u dont sort then oupt will come same but position can differen  see  carefully fo rthese tyoe of ascendig order output we have to make sort 
+//                  Output
+// [["dooe","diia","exxj","avvj"],["diia","dooe","avvj","exxj"]]
+// Expected
+// [["diia","dooe","avvj","exxj"],["dooe","diia","exxj","avvj"]]
+                       
 
                                      result.push_back({s[i], s[j], 
                                                      s[k], s[l]});
