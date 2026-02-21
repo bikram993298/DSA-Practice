@@ -9,7 +9,7 @@ public:
 
         for(char c : s) {
 
-            res.push_back((c - shift + 26) % 26 + 'a');
+            res.push_back((c - shift ) % 26 + 'a');
         }
 
         return res;
