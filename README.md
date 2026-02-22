@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bikram993298/DSA-Practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/bikram993298/DSA-Practice/tree/master/0060-permutation-sequence) |
+| [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/bikram993298/DSA-Practice/tree/master/0342-power-of-four) |
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0556-next-greater-element-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0556-next-greater-element-iii) |
