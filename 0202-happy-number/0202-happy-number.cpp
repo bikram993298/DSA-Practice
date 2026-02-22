@@ -25,7 +25,7 @@ public:
     }
 };
 
-
+// for cheking repittaioan use map
 // n = 2
 
 // 2² = 4
