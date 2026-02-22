@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0556-next-greater-element-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
