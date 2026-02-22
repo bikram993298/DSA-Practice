@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
+| [3790-smallest-all-ones-multiple](https://github.com/bikram993298/DSA-Practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3803-count-residue-prefixes](https://github.com/bikram993298/DSA-Practice/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bikram993298/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3790-smallest-all-ones-multiple](https://github.com/bikram993298/DSA-Practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
 |  |
