@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/bikram993298/DSA-Practice/tree/master/3811-number-of-alternating-xor-partitions) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Tree
 |  |
 | ------- |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bikram993298/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/bikram993298/DSA-Practice/tree/master/3810-minimum-operations-to-reach-target-array) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 | [3813-vowel-consonant-score](https://github.com/bikram993298/DSA-Practice/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
 |  |
 | ------- |
