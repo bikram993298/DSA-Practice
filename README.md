@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/bikram993298/DSA-Practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3788-maximum-score-of-a-split](https://github.com/bikram993298/DSA-Practice/tree/master/3788-maximum-score-of-a-split) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bikram993298/DSA-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-smallest-all-ones-multiple](https://github.com/bikram993298/DSA-Practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3803-count-residue-prefixes](https://github.com/bikram993298/DSA-Practice/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bikram993298/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3790-smallest-all-ones-multiple](https://github.com/bikram993298/DSA-Practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
