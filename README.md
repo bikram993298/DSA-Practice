@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
+| [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -629,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
