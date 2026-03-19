@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 ## Math
 |  |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bikram993298/DSA-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/bikram993298/DSA-Practice/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
