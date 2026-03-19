@@ -1,3 +1,69 @@
+// class Solution {
+// public:
+//     const long long MOD = 1e9 + 7;
+//     int n, k;
+//     vector<int> prefix;
+//     vector<vector<long long>> memo;
+
+//     long long solve(int index, int parts) {
+        
+//         // If we formed 3 parts
+//         if(parts == 3) {
+//             return (index == n) ? 1 : 0;
+//         }
+        
+//         // If reached end but not 3 parts
+//         if(index == n) return 0;
+
+//         if(memo[index][parts] != -1)
+//             return memo[index][parts];
+
+//         long long ways = 0;
+
+//         // Try making a cut at every possible end
+//         for(int end = index; end < n; end++) {
+            
+//             int ones = prefix[end+1] - prefix[index];
+
+//             if(ones == k) {
+//                 ways = (ways + solve(end+1, parts+1)) % MOD;
+//             }
+//         }
+
+//         return memo[index][parts] = ways;
+//     }
+
+//     int numWays(string s) {
+
+//         n = s.size();
+//         int total = 0;
+
+//         for(char c : s)
+//             if(c == '1') total++;
+
+//         // All zero case
+//         if(total == 0) {
+//             long long ways = (long long)(n-1)*(n-2)/2;
+//             return ways % MOD;
+//         }
+
+//         if(total % 3 != 0) return 0;
+
+//         k = total / 3;
+
+//         // Build prefix sum
+//         prefix.assign(n+1, 0);
+//         for(int i = 0; i < n; i++)
+//             prefix[i+1] = prefix[i] + (s[i] == '1');
+
+//         memo.assign(n+1, vector<long long>(4, -1));
+
+//         return solve(0, 0);
+//     }
+// };
+
+
+
 class Solution {
 
 public:
