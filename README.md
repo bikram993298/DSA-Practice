@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bikram993298/DSA-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
