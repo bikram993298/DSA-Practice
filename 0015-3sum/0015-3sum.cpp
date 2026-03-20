@@ -33,15 +33,35 @@ public:
         sort(nums.begin(), nums.end());  // Sort the array to use two-pointer technique
 
         for(int i = 0; i < nums.size() - 2; i++) {  // Loop through the array
-            if(i != 0 && nums[i] == nums[i - 1]) {  // Skip duplicates for the first number
-            // if i processed some previous value with smae then continue
-                continue;
-            }
+            // if(i != 0 && nums[i] == nums[i - 1]) {  // Skip duplicates for the first number
+            // // if i processed some previous value with smae then continue
+            //     continue;
+            // }
             // Call twoSum for the rest of the array to find pairs that sum up to -nums[i]
             twoSum(nums, i + 1, result, -nums[i]);
+
+            while(i<nums.size()-2   && nums[i]==nums[i+1]){
+                i++;
+                
+            }
         }
 
         return result;
     }
 };
 //muy intituion to solve this we will fix one lement and implement two sum in rest of the array and we have to short this because it will be easy to tackle with duplicate
+// Hash Map approach:
+
+// Time: O(n²)
+
+// Space: O(n) (hash set per outer loop)
+
+// Still need duplicate checks (both for i and for pairs).
+
+// Two-Pointer approach:
+
+// Time: O(n²)
+
+// Space: O(1)
+
+// Simpler duplicate handling because array is sorted.
