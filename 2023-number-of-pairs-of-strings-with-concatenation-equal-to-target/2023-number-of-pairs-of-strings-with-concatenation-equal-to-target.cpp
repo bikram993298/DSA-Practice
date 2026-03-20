@@ -15,7 +15,7 @@ public:
             if(target.substr(0, s.size()) == s) {
                 string remain = target.substr(s.size());
                 
-                count += mp[remain];
+                if(mp.count(remain))count += mp[remain];
                 
                 // avoid using same index
                 if(remain == s) count--;
