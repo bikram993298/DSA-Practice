@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bikram993298/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
@@ -371,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
