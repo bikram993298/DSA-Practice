@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1711-count-good-meals](https://github.com/bikram993298/DSA-Practice/tree/master/1711-count-good-meals) |
 | [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1711-count-good-meals](https://github.com/bikram993298/DSA-Practice/tree/master/1711-count-good-meals) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
