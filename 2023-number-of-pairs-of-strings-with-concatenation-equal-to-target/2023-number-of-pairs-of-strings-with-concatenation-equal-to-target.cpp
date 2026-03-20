@@ -17,7 +17,7 @@ public:
                 
                 if(mp.count(remain))count += mp[remain];
                 
-                // avoid using same index
+                // avoid using same index like 77  is 5 itmes in the map and we need 77 to fill the string then we only count-1 will add becase samw index,77,77,77,77,77, 4 pair will be there and according rest will be count so,,amin thing if same
                 if(remain == s) count--;
             }
         }
