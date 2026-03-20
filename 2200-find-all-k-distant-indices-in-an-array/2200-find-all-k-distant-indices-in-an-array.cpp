@@ -65,7 +65,7 @@ public:
                 for(int j = start; j <= end; j++) {
                     res.push_back(j);
                 }
-                
+                // complexcity linear because inner loop only adding each index once 
                 last = end;
             }
         }
