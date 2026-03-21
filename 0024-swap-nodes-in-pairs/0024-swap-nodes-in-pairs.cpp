@@ -1,26 +1,26 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        if(!head || !head->next) return head;
+        ListNode* d = new ListNode(0);
+        d->next = head;
+        ListNode* prev = d;
+        // for easy purpose
 
-        ListNode* first = head;
-        ListNode* second = head->next;
-        ListNode* prev = NULL;
-
-        head = second;
-
-        while(first && second){
+        while(prev->next && prev->next->next){
+            ListNode* first = prev->next;
+            ListNode* second = first->next;
             ListNode* third = second->next;
 
             second->next = first;
             first->next = third;
-
-            if(prev) prev->next = second;
+            prev->next = second;
 
             prev = first;
-            first = third;
-            if(third) second = third->next;
+            // partititon think of real life dry run 
+            //1 2 3 4
+            // 2 1 3 4
+            // now prev will be in 1
         }
-        return head;
+        return d->next;
     }
 };
