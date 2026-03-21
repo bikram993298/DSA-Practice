@@ -14,6 +14,7 @@ public:
         // Min-heap based on node values
         auto cmp = [](ListNode* a, ListNode* b) {
             return a->val > b->val;
+            // min heap a> b always 
         };
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
 
