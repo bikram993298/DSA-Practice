@@ -532,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/bikram993298/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## String Matching
 |  |
 | ------- |
