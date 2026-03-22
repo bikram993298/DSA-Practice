@@ -21,12 +21,13 @@ public:
 
                             int d = ch - '1';
                             int k = (i/3)*3 + (j/3);
+                            // if it is vvalid update real b and sets ,,row,oloumns and box
 
                             b[i][j] = ch;
                             row[i][d] = col[j][d] = box[k][d] = 1;
 
                             if(solve(b)) return true;
-
+                        // backtrsck all
                             b[i][j] = '.';
                             row[i][d] = col[j][d] = box[k][d] = 0;
                         }
@@ -44,7 +45,7 @@ public:
         for(int i = 0; i < 9; i++) {
             for(int j = 0; j < 9; j++) {
                 if(board[i][j] != '.') {
-                    int d = board[i][j] - '1';
+                    int d = board[i][j] - '1';// 1 because number from 1 to 9
                     int k = (i/3)*3 + (j/3);
                     row[i][d] = col[j][d] = box[k][d] = 1;
                 }
