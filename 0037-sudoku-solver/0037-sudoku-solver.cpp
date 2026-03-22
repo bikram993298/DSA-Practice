@@ -3,7 +3,7 @@ public:
     bool row[9][9] = {0};
     bool col[9][9] = {0};
     bool box[9][9] = {0};
-
+// backtaracking think in this way that try all posiible combination if blank if valid recurse to new solve funtion return true,if recurse is valid,,think if u tried all combiantion till not get return false,,another you have finised all values then inner thing didi not worked then return true
     bool isValid(int r, int c, char ch) {
         int d = ch - '1';
         int k = (r/3)*3 + (c/3);
