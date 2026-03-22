@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bikram993298/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/bikram993298/DSA-Practice/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0137-single-number-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
