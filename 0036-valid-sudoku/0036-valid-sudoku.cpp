@@ -261,16 +261,16 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        bool row[9][10] = {0};//0th if i found 1 to 9 any number or not 
+        bool row[9][9] = {0};//0th if i found 1 to 9 any number or not 
         // how u though of this intiiton is i ned to check in row 
-        bool col[9][10] = {0};
-        bool box[9][10] = {0};
+        bool col[9][9] = {0};
+        bool box[9][9] = {0};
         
         for(int i = 0; i < 9; i++) {
             for(int j = 0; j < 9; j++) {
                 if(board[i][j] == '.') continue;
                 
-                int digit = board[i][j] - '0';  // 1 → 9
+                int digit = board[i][j] - '1';  // 1 → 9 so -1 ,,if 0 to 9 then 0
                 // by i and j you will find that in that row index and coloumn index and box index then check if digit oreviously or not
                 int boxIndex = (i/3)*3 + (j/3);
                 
