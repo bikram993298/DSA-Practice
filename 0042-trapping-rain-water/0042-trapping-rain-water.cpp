@@ -1,22 +1,27 @@
 class Solution {
 public:
-    int trap(vector<int>& h) {
-        int n = h.size();
-        vector<int> l(n), r(n);
+    int trap(vector<int>& height) {
+        int n = height.size();
 
-        l[0] = 0;
+        vector<int> leftMax(n), rightMax(n);
+
+        leftMax[0] = 0;
         for(int i = 1; i < n; i++)
-            l[i] = max(l[i-1], h[i-1]);
+            leftMax[i] = max(leftMax[i-1], height[i-1]);
 
-        r[n-1] = 0;
+        rightMax[n-1] = 0;
         for(int i = n-2; i >= 0; i--)
-            r[i] = max(r[i+1], h[i+1]);
+            rightMax[i] = max(rightMax[i+1], height[i+1]);
 
-        int ans = 0;
+        int totalWater = 0;
+/// my intition is for each building they hae hteir personal height and left max and right max,, they will store min(leftmax and right max) water - theri height upper to them,,so, lets ifnd  a building height 8 and left 3 and right 3 then 3- iwn height8 ,,then negatuve menas water will not store so then not plaus
         for(int i = 0; i < n; i++) {
-            int w = min(l[i], r[i]) - h[i];
-            if(w > 0) ans += w;
+            int waterLevel = min(leftMax[i], rightMax[i]);
+            int trapped = waterLevel - height[i];
+
+            if(trapped > 0) totalWater += trapped;
         }
-        return ans;
+
+        return totalWater;
     }
 };
