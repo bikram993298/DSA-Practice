@@ -10,7 +10,7 @@ public:
         }
 
         for (int i = start; i < candidates.size(); i++) {
-            if (candidates[i] > remaining) break; // prune: rest are too large
+            if (candidates[i] > remaining) continue; // prune: rest are too large
 
             current.push_back(candidates[i]);
             backtrack(candidates, remaining - candidates[i], i, current, result);
@@ -20,7 +20,7 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> result;
         vector<int> current;
-        sort(candidates.begin(), candidates.end()); // enables early termination
+        // sort(candidates.begin(), candidates.end()); // enables early termination
         backtrack(candidates, target, 0, current, result);
         return result;
     }
