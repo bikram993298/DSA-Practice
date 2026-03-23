@@ -41,7 +41,7 @@ public:
          }
           x=p;
          y=q;
-          while(x<m-1&& y<0){
+          while(x<m-1&& y>0){
            
             x++;
             y--;
