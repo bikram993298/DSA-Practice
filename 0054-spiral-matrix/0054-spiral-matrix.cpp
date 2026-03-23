@@ -34,7 +34,7 @@ public:
 
             // 3) Right-1 → Left on the bottom row
             for (int i = right - 1; i >= left; --i) {
-                if (top == down) break;  // avoid retraversal when single row remains
+                if (top == down) continue;  // avoid retraversal when single row remains
                 result.push_back(matrix[down][i]);
             }
 
