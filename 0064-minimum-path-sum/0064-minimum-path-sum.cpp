@@ -4,6 +4,7 @@ public:
 
     int solve(int i, int j, int m, int n,vector<vector<int>>& grid) {
         if(i>=m || j>=n) return 1e9;
+        // alwasy suse 1e9 instead of int_max;
         if(i == m-1 && j == n-1) return grid[i][j];
         if(dp[i][j] != -1) return dp[i][j];
 
