@@ -6,6 +6,7 @@ public:
    bool check(int p,int q,vector<string>&temp){
             int n=temp.size();
             int m=temp[0].size();
+            // check in same row
           for(int i=0;i<n;i++){
             if(temp[i][q]=='Q') return false;
           }
@@ -13,12 +14,14 @@ public:
             if(temp[p][j]=='Q') return false;
 
          }
+         //check left daognol
          int x=p;
          int y=q;
-         while(x>=0&& y>=0){
-            if(temp[x][y]=='Q') return false;
+         while(x>0&& y>0){
+           
             x--;
             y--;
+             if(temp[x][y]=='Q') return false;
          }
          x=p;
          y=q;
@@ -30,17 +33,19 @@ public:
          }
           x=p;
          y=q;
-          while(x>=0&& y<n){
-            if(temp[x][y]=='Q') return false;
+          while(x>0&& y<n-1){
+            
             x--;
             y++;
+            if(temp[x][y]=='Q') return false;
          }
           x=p;
          y=q;
-          while(x<m&& y>=0){
-            if(temp[x][y]=='Q') return false;
+          while(x<m-1&& y<0){
+           
             x++;
             y--;
+             if(temp[x][y]=='Q') return false;
          }
        
        return true;
@@ -75,6 +80,7 @@ public:
     vector<vector<string>> solveNQueens(int n) {
          vector<string> temp;
          string s = "";
+         // we ahve to make the grid ans so make empty string of n size then ad in temp 
          for (int i = 0; i < n; i++) s += '.';
          for (int i = 0; i < n; i++) temp.push_back(s);
 
