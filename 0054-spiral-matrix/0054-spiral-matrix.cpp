@@ -39,6 +39,9 @@ public:
             }
 
             // 4) Down-1 → Top+1 on the left column
+
+
+            // all where >= but here > top
             for (int i = down - 1; i > top; --i) {
                 if (left == right) break;    // avoid retraversal when single row remains
                 result.push_back(matrix[i][left]);
