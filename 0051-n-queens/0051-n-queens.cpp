@@ -15,6 +15,7 @@ public:
 
          }
          //check left daognol
+         // check all doganol
          int x=p;
          int y=q;
          while(x>0&& y>0){
