@@ -32,3 +32,4 @@ public:
         return result;
     }
 };
+// time coppmexct(n^2* 2^n)
