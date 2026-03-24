@@ -1,16 +1,9 @@
 class Solution {
 public:
-    vector<string> wordBreak(string s, vector<string>& wordDict) {
-        unordered_set<string> dict(wordDict.begin(), wordDict.end());
-        vector<string> res;
-        vector<string> path; // stores words in the current sentence
-        dfs(0, s, dict, path, res);
-        return res;
-    }
-
-private:
+       vector<string> res;
+     
     void dfs(int idx, const string &s, unordered_set<string> &dict,
-             vector<string> &path, vector<string> &res) {
+             vector<string> &path) {
         if (idx == s.size()) {
             // Join words in path to form a sentence
             string sentence = "";
@@ -22,15 +15,24 @@ private:
             return;
         }
 
-        for (int end = idx + 1; end <= s.size(); ++end) {
-            string word = s.substr(idx, end - idx);
+        for (int end = idx ; end <= s.size(); ++end) {
+            string word = s.substr(idx, end - idx+1);
             if (dict.count(word)) {
                 path.push_back(word);       // choose this word
-                dfs(end, s, dict, path, res); // recurse
+                dfs(end+1, s, dict, path); // recurse
                 path.pop_back();             // backtrack
             }
         }
     }
+    vector<string> wordBreak(string s, vector<string>& wordDict) {
+        unordered_set<string> dict(wordDict.begin(), wordDict.end());
+    
+        vector<string> path; // stores words in the current sentence
+        dfs(0, s, dict, path);
+        return res;
+    }
+
+
 };
 
 // class Solution {
