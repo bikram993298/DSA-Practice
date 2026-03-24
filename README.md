@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/bikram993298/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
 | [0576-out-of-boundary-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/bikram993298/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
