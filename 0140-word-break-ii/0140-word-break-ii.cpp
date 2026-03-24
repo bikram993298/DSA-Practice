@@ -15,7 +15,7 @@ public:
             return;
         }
 
-        for (int end = idx ; end <= s.size(); ++end) {
+        for (int end = idx ; end < s.size(); ++end) {
             string word = s.substr(idx, end - idx+1);
             if (dict.count(word)) {
                 path.push_back(word);       // choose this word
