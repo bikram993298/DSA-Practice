@@ -8,7 +8,7 @@ public:
         if (!root) return;
 
         inorder(root->left);
-
+// main idea in inonrder check preious same o rnot,,if same then count++,,count maximum,pusback it can heppen 3 3 4 4 ,,then ans 3,4 4 also shouldosuhbcak then create cindiiton maximm==coubt the a also pushback
         // Process current node
         if (prev && prev->val == root->val) {
             count++;
