@@ -1,42 +1,105 @@
+// class Solution {
+// public:
+
+//     // Step 1: Inorder traversal
+//     void inorder(TreeNode* root, vector<int>& arr) {
+//         if(root == NULL) return;
+
+//         inorder(root->left, arr);
+//         arr.push_back(root->val);
+//         inorder(root->right, arr);
+//     }
+
+//     // Step 3: Build BST from sorted array
+//     TreeNode* buildBST(vector<int>& arr, int left, int right) {
+//         if(left > right) return NULL;
+
+//         int mid = (left + right) / 2;
+
+//         TreeNode* root = new TreeNode(arr[mid]);
+
+//         root->left = buildBST(arr, left, mid - 1);
+//         root->right = buildBST(arr, mid + 1, right);
+
+//         return root;
+//     }
+
+//     TreeNode* deleteNode(TreeNode* root, int key) {
+
+//         // Step 1: Flatten tree
+//         vector<int> arr;
+//         inorder(root, arr);
+
+//         // Step 2: Remove key
+//         vector<int> newArr;
+//         for(int x : arr) {
+//             if(x != key) newArr.push_back(x);
+//         }
+
+//         // Step 3: Rebuild BST
+//         return buildBST(newArr, 0, newArr.size() - 1);
+//     }
+// };
+
 class Solution {
 public:
 
-    // Step 1: Inorder traversal
-    void inorder(TreeNode* root, vector<int>& arr) {
-        if(root == NULL) return;
-
-        inorder(root->left, arr);
-        arr.push_back(root->val);
-        inorder(root->right, arr);
-    }
-
-    // Step 3: Build BST from sorted array
-    TreeNode* buildBST(vector<int>& arr, int left, int right) {
-        if(left > right) return NULL;
-
-        int mid = (left + right) / 2;
-
-        TreeNode* root = new TreeNode(arr[mid]);
-
-        root->left = buildBST(arr, left, mid - 1);
-        root->right = buildBST(arr, mid + 1, right);
-
+    // Function to find minimum value node (inorder successor)
+    TreeNode* findMin(TreeNode* root) {
+        while(root->left != NULL) {
+            root = root->left;
+        }
         return root;
     }
 
     TreeNode* deleteNode(TreeNode* root, int key) {
 
-        // Step 1: Flatten tree
-        vector<int> arr;
-        inorder(root, arr);
+        // Base case
+        if(root == NULL) return NULL;
 
-        // Step 2: Remove key
-        vector<int> newArr;
-        for(int x : arr) {
-            if(x != key) newArr.push_back(x);
+        // Step 1: Traverse BST
+        if(key < root->val) {
+            // "Key is smaller, go left"
+            root->left = deleteNode(root->left, key);
+        }
+        else if(key > root->val) {
+            // "Key is greater, go right"
+            root->right = deleteNode(root->right, key);
+        }
+        else {
+            // "Node found, now delete it"
+
+            // Case 1: No child
+            if(root->left == NULL && root->right == NULL) {
+                delete root;
+                return NULL;
+            }
+
+            // Case 2: One child
+            else if(root->left == NULL) {
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
+            }
+            else if(root->right == NULL) {
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
+            }
+
+            // Case 3: Two children
+            else {
+                // "Find inorder successor (smallest in right subtree)"
+                TreeNode* successor = findMin(root->right);
+
+                // "Replace value"
+                root->val = successor->val;
+
+                // "Delete the successor"
+                root->right = deleteNode(root->right, successor->val);
+            }
         }
 
-        // Step 3: Rebuild BST
-        return buildBST(newArr, 0, newArr.size() - 1);
+        return root;
     }
 };
