@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/bikram993298/DSA-Practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/bikram993298/DSA-Practice/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/bikram993298/DSA-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0541-reverse-string-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0541-reverse-string-ii) |
