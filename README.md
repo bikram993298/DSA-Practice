@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0517-super-washing-machines](https://github.com/bikram993298/DSA-Practice/tree/master/0517-super-washing-machines) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bikram993298/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0576-out-of-boundary-paths) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/bikram993298/DSA-Practice/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
@@ -700,12 +703,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 ## Bitmask DP
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 ## Union-Find
