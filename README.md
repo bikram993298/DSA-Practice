@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -824,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/bikram993298/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
