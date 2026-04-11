@@ -3,6 +3,7 @@ public:
     bool solve(vector<double> a) {
         // if only one number left
         if (a.size() == 1) {
+            // epsilon like here is real devision so think 8/3*3 it will give 7.999999 so epsilon is lhighest error that can be possiible because of precison eroor
             return abs(a[0] - 24) < 1e-6;
         }
 
