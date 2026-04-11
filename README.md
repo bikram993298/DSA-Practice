@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/bikram993298/DSA-Practice/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bikram993298/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0664-strange-printer](https://github.com/bikram993298/DSA-Practice/tree/master/0664-strange-printer) |
+| [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0680-valid-palindrome-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Recursion
 |  |
@@ -854,6 +858,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
