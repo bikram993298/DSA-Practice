@@ -37,3 +37,10 @@ public:
         return ans;
     }
 };
+
+
+// | Approach        | Time       |
+// | --------------- | ---------- |
+// | Sorting         | O(n log n) |
+// | Max heap        | O(n log n) |
+// | Min heap (best) | O(n log k) |
