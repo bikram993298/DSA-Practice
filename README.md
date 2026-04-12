@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0665-non-decreasing-array](https://github.com/bikram993298/DSA-Practice/tree/master/0665-non-decreasing-array) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0576-out-of-boundary-paths) |
 | [0664-strange-printer](https://github.com/bikram993298/DSA-Practice/tree/master/0664-strange-printer) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/bikram993298/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Prefix Sum
@@ -724,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
@@ -731,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 ## Union-Find
