@@ -39,7 +39,7 @@ public:
 
         sort(nums.rbegin(), nums.rend());
 
-        if (nums[0] > target) return false;
+        // if (nums[0] > target) return false;
 
         vector<bool> used(nums.size(), false);
 
