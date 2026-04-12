@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/bikram993298/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
+| [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/bikram993298/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## String Matching
 |  |
@@ -871,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 ## Design
 |  |
 | ------- |
@@ -878,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
