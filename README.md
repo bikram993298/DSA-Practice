@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Prefix Sum
@@ -686,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -787,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
@@ -857,6 +862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0690-employee-importance](https://github.com/bikram993298/DSA-Practice/tree/master/0690-employee-importance) |
+| [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
