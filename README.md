@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/bikram993298/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
+| [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/bikram993298/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -488,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0670-maximum-swap](https://github.com/bikram993298/DSA-Practice/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bikram993298/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
