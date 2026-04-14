@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
+| [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/bikram993298/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0730-count-different-palindromic-subsequences) |
+| [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/bikram993298/DSA-Practice/tree/master/0925-long-pressed-name) |
@@ -772,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
