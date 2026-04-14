@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0761-special-binary-string](https://github.com/bikram993298/DSA-Practice/tree/main/0761-special-binary-string/) | Hard |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/bikram993298/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
+| [0761-special-binary-string](https://github.com/bikram993298/DSA-Practice/tree/main/0761-special-binary-string/) | Hard |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/bikram993298/DSA-Practice/tree/master/0925-long-pressed-name) |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/bikram993298/DSA-Practice/tree/main/0761-special-binary-string/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/bikram993298/DSA-Practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 | Problem Name | Difficulty |
