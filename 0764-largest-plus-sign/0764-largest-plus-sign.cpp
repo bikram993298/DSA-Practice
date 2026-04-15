@@ -74,7 +74,7 @@
 //     }
 // };
 // // thi give tle approximately 125000000
-// // how to think of opitmal appraoch
+// // how to think of opitmal appraoch where you are computing same upper many times ,,where same computing manu times then use dp
 class Solution {
 public:
     int n;
