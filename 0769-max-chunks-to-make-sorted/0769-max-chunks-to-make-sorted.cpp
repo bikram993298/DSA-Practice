@@ -16,6 +16,7 @@ public:
         }
 
         int chunksCount = 1;
+        // in deafult case there wil b eone chunking whole if no cut,,,if ther ei one cut here two chuning so this type 
         for (int i = 1; i < n; i++) {
             int pehleKaMax =  prefixMax[i - 1] ;
             int baadKaMin  = suffixMin[i];
