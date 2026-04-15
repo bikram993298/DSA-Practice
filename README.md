@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0693-binary-number-with-alternating-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/bikram993298/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
@@ -613,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0672-bulb-switcher-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
 | [0754-reach-a-number](https://github.com/bikram993298/DSA-Practice/tree/main/0754-reach-a-number/) | Medium |
+| [0779-k-th-symbol-in-grammar](https://github.com/bikram993298/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/bikram993298/DSA-Practice/tree/master/0342-power-of-four) |
+| [0779-k-th-symbol-in-grammar](https://github.com/bikram993298/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
 | Problem Name | Difficulty |
