@@ -20,7 +20,8 @@ public:
         for (int i = 1; i < n; i++) {
             int pehleKaMax =  prefixMax[i - 1] ;
             int baadKaMin  = suffixMin[i];
-            
+            // because it may be duplicate so
+            // arr = [1,1,1] there can be three chunk
             if(pehleKaMax <= baadKaMin) {
                 chunksCount++;
             }
