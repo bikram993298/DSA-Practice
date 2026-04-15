@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0764-largest-plus-sign](https://github.com/bikram993298/DSA-Practice/tree/main/0764-largest-plus-sign/) | Medium |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
+| [0799-champagne-tower](https://github.com/bikram993298/DSA-Practice/tree/main/0799-champagne-tower/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
