@@ -11,6 +11,8 @@ public:
         if(K <= mid)
             return kthGrammar(N-1, K);
         
-        return !kthGrammar(N-1, K-mid);
+
+        // flip
+        return 1-kthGrammar(N-1, K-mid);
     }
 };
