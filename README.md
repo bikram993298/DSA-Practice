@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0789-escape-the-ghosts](https://github.com/bikram993298/DSA-Practice/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -713,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0766-toeplitz-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
+| [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
