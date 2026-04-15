@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
+| [0764-largest-plus-sign](https://github.com/bikram993298/DSA-Practice/tree/main/0764-largest-plus-sign/) | Medium |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
+| [0764-largest-plus-sign](https://github.com/bikram993298/DSA-Practice/tree/main/0764-largest-plus-sign/) | Medium |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
