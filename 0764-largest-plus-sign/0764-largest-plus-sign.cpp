@@ -78,7 +78,7 @@
 class Solution {
 public:
     int n;
-
+// you can amake also dp[i][3] up,down left ,right in one solve function you can do
     vector<vector<int>> dp_up, dp_down, dp_left, dp_right;
 
     int up(int i, int j, vector<vector<int>>& grid) {
