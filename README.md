@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0764-largest-plus-sign](https://github.com/bikram993298/DSA-Practice/tree/main/0764-largest-plus-sign/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0761-special-binary-string](https://github.com/bikram993298/DSA-Practice/tree/main/0761-special-binary-string/) | Hard |
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/bikram993298/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bikram993298/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0757-set-intersection-size-at-least-two](https://github.com/bikram993298/DSA-Practice/tree/main/0757-set-intersection-size-at-least-two/) | Hard |
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -716,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -998,6 +1002,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
+| [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
