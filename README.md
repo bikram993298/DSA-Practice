@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bikram993298/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0063-unique-paths-ii) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikram993298/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bikram993298/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/bikram993298/DSA-Practice/tree/master/0115-distinct-subsequences) |
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikram993298/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/bikram993298/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/bikram993298/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0040-combination-sum-ii) |
