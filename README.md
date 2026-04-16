@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0773-sliding-puzzle](https://github.com/bikram993298/DSA-Practice/tree/main/0773-sliding-puzzle/) | Hard |
+| [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/bikram993298/DSA-Practice/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -380,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0732-my-calendar-iii) |
 | [0754-reach-a-number](https://github.com/bikram993298/DSA-Practice/tree/main/0754-reach-a-number/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -438,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0696-count-binary-substrings](https://github.com/bikram993298/DSA-Practice/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bikram993298/DSA-Practice/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
@@ -484,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0791-custom-sort-string](https://github.com/bikram993298/DSA-Practice/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
