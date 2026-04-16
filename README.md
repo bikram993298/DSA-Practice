@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
+| [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-k-th-symbol-in-grammar](https://github.com/bikram993298/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0788-rotated-digits](https://github.com/bikram993298/DSA-Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/bikram993298/DSA-Practice/tree/main/0789-escape-the-ghosts/) | Medium |
+| [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -1061,4 +1063,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
