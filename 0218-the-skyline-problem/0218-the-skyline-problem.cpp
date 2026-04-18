@@ -27,6 +27,7 @@ public:
             int h = e.second;
 
             if (h < 0) {
+                // we hae to tarack staring index so that heigh<0 we oush and see any hegiht chneg 
                 // always start- because you ar estoring in -
                 // start of building
                 heights.insert(-h);
