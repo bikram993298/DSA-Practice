@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/bikram993298/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/0014-longest-common-prefix) |
@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
+| [0929-unique-email-addresses](https://github.com/bikram993298/DSA-Practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
@@ -152,8 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/bikram993298/DSA-Practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bikram993298/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0062-unique-paths) |
@@ -198,14 +199,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/bikram993298/DSA-Practice/tree/master/3811-number-of-alternating-xor-partitions) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -214,8 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
@@ -233,12 +234,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0137-single-number-ii) |
@@ -273,8 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -315,8 +316,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -358,8 +359,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3786-total-sum-of-interaction-cost-in-tree-groups](https://github.com/bikram993298/DSA-Practice/tree/master/3786-total-sum-of-interaction-cost-in-tree-groups) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/bikram993298/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
@@ -368,8 +369,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bikram993298/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0732-my-calendar-iii) |
@@ -381,8 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3788-maximum-score-of-a-split](https://github.com/bikram993298/DSA-Practice/tree/master/3788-maximum-score-of-a-split) |
 | [3814-maximum-capacity-within-budget](https://github.com/bikram993298/DSA-Practice/tree/master/3814-maximum-capacity-within-budget) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bikram993298/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -415,8 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/bikram993298/DSA-Practice/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/bikram993298/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -425,8 +426,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/bikram993298/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bikram993298/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/bikram993298/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bikram993298/DSA-Practice/tree/master/0016-3sum-closest) |
@@ -483,8 +484,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/bikram993298/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/bikram993298/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0047-permutations-ii) |
@@ -531,8 +532,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/bikram993298/DSA-Practice/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bikram993298/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0517-super-washing-machines](https://github.com/bikram993298/DSA-Practice/tree/master/0517-super-washing-machines) |
@@ -555,8 +556,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3810-minimum-operations-to-reach-target-array](https://github.com/bikram993298/DSA-Practice/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/bikram993298/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
+| [0929-unique-email-addresses](https://github.com/bikram993298/DSA-Practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -617,8 +619,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
@@ -629,8 +631,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bikram993298/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/bikram993298/DSA-Practice/tree/master/0012-integer-to-roman) |
@@ -666,8 +668,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3790-smallest-all-ones-multiple](https://github.com/bikram993298/DSA-Practice/tree/master/3790-smallest-all-ones-multiple) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bikram993298/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/bikram993298/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0013-roman-to-integer) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/bikram993298/DSA-Practice/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/bikram993298/DSA-Practice/tree/main/0929-unique-email-addresses/) | Easy |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -734,8 +737,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/bikram993298/DSA-Practice/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/bikram993298/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bikram993298/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0054-spiral-matrix) |
@@ -757,8 +760,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/bikram993298/DSA-Practice/tree/master/0289-game-of-life) |
@@ -767,8 +770,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3819-rotate-non-negative-elements](https://github.com/bikram993298/DSA-Practice/tree/master/3819-rotate-non-negative-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -779,16 +782,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3804-number-of-centered-subarrays) |
 | [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bikram993298/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
@@ -803,14 +806,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/bikram993298/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
@@ -823,8 +826,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bikram993298/DSA-Practice/tree/master/0050-powx-n) |
@@ -835,12 +838,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-k-th-symbol-in-grammar](https://github.com/bikram993298/DSA-Practice/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikram993298/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bikram993298/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/bikram993298/DSA-Practice/tree/master/0037-sudoku-solver) |
@@ -867,15 +870,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [3799-word-squares-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3799-word-squares-ii) |
 ## Bitmask DP
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -885,8 +888,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -914,8 +917,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -923,8 +926,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/bikram993298/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bikram993298/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -951,12 +954,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Eulerian Circuit
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
@@ -966,8 +969,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -994,13 +997,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/bikram993298/DSA-Practice/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1012,14 +1015,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
@@ -1032,26 +1035,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3815-design-auction-system](https://github.com/bikram993298/DSA-Practice/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3829-design-ride-sharing-system](https://github.com/bikram993298/DSA-Practice/tree/master/3829-design-ride-sharing-system) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0761-special-binary-string](https://github.com/bikram993298/DSA-Practice/tree/main/0761-special-binary-string/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/bikram993298/DSA-Practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/bikram993298/DSA-Practice/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/bikram993298/DSA-Practice/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bikram993298/DSA-Practice/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/bikram993298/DSA-Practice/tree/main/0577-employee-bonus/) | Easy |
@@ -1064,51 +1067,51 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1757-recyclable-and-low-fat-products](https://github.com/bikram993298/DSA-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/bikram993298/DSA-Practice/tree/main/1934-confirmation-rate/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0768-max-chunks-to-make-sorted-ii/) | Hard |
 | [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0062-unique-paths) |
 ## Reservoir Sampling
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0519-random-flip-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0519-random-flip-matrix) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0519-random-flip-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0519-random-flip-matrix) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 ## Iterator
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 ## Sweep Line
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
