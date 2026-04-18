@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0506-relative-ranks](https://github.com/bikram993298/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -950,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0729-my-calendar-i](https://github.com/bikram993298/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
@@ -1080,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 ## Rolling Hash
 |  |
