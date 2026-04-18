@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/bikram993298/DSA-Practice/tree/master/0504-base-7) |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/bikram993298/DSA-Practice/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/bikram993298/DSA-Practice/tree/master/0741-cherry-pickup) |
 | [0766-toeplitz-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -800,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -839,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
