@@ -689,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/bikram993298/DSA-Practice/tree/main/0482-license-key-formatting/) | Easy |
 | [0504-base-7](https://github.com/bikram993298/DSA-Practice/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/bikram993298/DSA-Practice/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/bikram993298/DSA-Practice/tree/master/0521-longest-uncommon-subsequence-i) |
