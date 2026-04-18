@@ -11,7 +11,7 @@ public:
 
         int prev1 = nums1[i-1];
         int prev2 = nums2[i-1];
-
+/// if u swap real elents if array chnages in the array,thne after recusion you hvae to revrese swa p that,,becuase her ecomes backtracking so 2^n cmes so it is imposisible so use swpped ale that indicates previous is swapped or not ,,if you want to swap then swap the prev 2 that will correct the code ,,and start recusuion from oth 1 index one swap or another not swap ,,form xero i have to perv elemnts
         // If previous was swapped, reverse them
         if (swappedPrev) {
             swap(prev1, prev2);
