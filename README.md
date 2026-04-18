@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bikram993298/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/bikram993298/DSA-Practice/tree/master/0813-largest-sum-of-averages) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/bikram993298/DSA-Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0799-champagne-tower](https://github.com/bikram993298/DSA-Practice/tree/main/0799-champagne-tower/) | Medium |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bikram993298/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0813-largest-sum-of-averages](https://github.com/bikram993298/DSA-Practice/tree/master/0813-largest-sum-of-averages) |
 | [0845-longest-mountain-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/0845-longest-mountain-in-array) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
