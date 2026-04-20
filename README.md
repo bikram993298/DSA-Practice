@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-longest-turbulent-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bikram993298/DSA-Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0983-minimum-cost-for-tickets](https://github.com/bikram993298/DSA-Practice/tree/master/0983-minimum-cost-for-tickets) |
+| [0989-add-to-array-form-of-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
@@ -676,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/bikram993298/DSA-Practice/tree/main/0788-rotated-digits/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/bikram993298/DSA-Practice/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
