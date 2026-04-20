@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0769-max-chunks-to-make-sorted](https://github.com/bikram993298/DSA-Practice/tree/main/0769-max-chunks-to-make-sorted/) | Medium |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0984-string-without-aaa-or-bbb](https://github.com/bikram993298/DSA-Practice/tree/master/0984-string-without-aaa-or-bbb) |
+| [0991-broken-calculator](https://github.com/bikram993298/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-escape-the-ghosts](https://github.com/bikram993298/DSA-Practice/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/bikram993298/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
+| [0991-broken-calculator](https://github.com/bikram993298/DSA-Practice/tree/master/0991-broken-calculator) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
