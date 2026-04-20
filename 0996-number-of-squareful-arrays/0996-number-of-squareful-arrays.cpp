@@ -1,42 +1,53 @@
 class Solution {
 public:
-    bool check(int i){
-        int b=sqrt(i);
-        return b*b==i;
-    }
-    int solve(int i,vector<int> & nums,vector<bool>& used,int prev){
-        int n=nums.size();
-        if(i==n){
-            return 1;
+    int ans = 0;
 
-        }
-        int ans=0;
-    
-    for(int j=0;j<n;j++){
-        if(used[j])continue;
-         if (j> 0 && nums[j] == nums[j - 1] && !used[j - 1]) continue;
-       if(prev == -1 || check(nums[j] + prev))
-{
-            used[j] = true;
-
-
-            ans=ans+solve(i+1,nums,used,nums[j]);
-           used[j] = false;
-
-
-        }
+    bool isSquare(int x) {
+        int r = sqrt(x);
+        return r * r == x;
     }
 
-    return ans;
+    void solve(vector<int>& nums, vector<bool>& used, vector<int>& path) {
         
+        if (path.size() == nums.size()) {
+            ans++;
+            return;
+        }
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            // your required code start from here
+
+            if (used[i]) continue;
+
+            // skip duplicates
+            if (i > 0 && nums[i] == nums[i-1] && !used[i-1])
+                continue;
+
+            // check square condition
+            if (!path.empty() && !isSquare(path.back() + nums[i]))
+                continue;
+
+            // your required code end here
+
+            used[i] = true;
+            path.push_back(nums[i]);
+
+            solve(nums, used, path);
+
+            path.pop_back();
+            used[i] = false;
+        }
     }
+
     int numSquarefulPerms(vector<int>& nums) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(), nums.end());
 
-        vector<bool> used(n,false);
-        int ans=solve(0,nums,used,-1);
+        vector<bool> used(nums.size(), false);
+        vector<int> path;
+
+        solve(nums, used, path);
+
         return ans;
-        
     }
 };
