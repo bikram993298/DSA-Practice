@@ -4,36 +4,35 @@ public:
     int helper(vector<int>& nums, int L, int M) {
         int n = nums.size();
 
+        // 1-based prefix sum
+        // prefix[i] = sum of first i elements
         vector<int> prefix(n + 1, 0);
 
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
+        for (int i = 1; i <= n; i++) {
+            prefix[i] = prefix[i - 1] + nums[i - 1];
         }
 
-        vector<int> left(n, 0);
-        vector<int> right(n, 0);
+        vector<int> left(n + 1, 0);
+        vector<int> right(n + 2, 0);
 
-        // left[i] = best L-length subarray till i
-        int sum = prefix[L] - prefix[0];
-        left[L - 1] = sum;
+        // left[i] = best L-length subarray till index i
 
-        for (int i = L; i < n; i++) {
-            sum = prefix[i + 1] - prefix[i + 1 - L];
+        for (int i = L; i <= n; i++) {
+            int sum = prefix[i] - prefix[i - L];
             left[i] = max(left[i - 1], sum);
         }
 
-        // right[i] = best M-length subarray from i to end
-        sum = prefix[n] - prefix[n - M];
-        right[n - M] = sum;
+        // right[i] = best M-length subarray from i to n
 
-        for (int i = n - M - 1; i >= 0; i--) {
-            sum = prefix[i + M] - prefix[i];
+        for (int i = n - M + 1; i >= 1; i--) {
+            int sum = prefix[i + M - 1] - prefix[i - 1];
             right[i] = max(right[i + 1], sum);
         }
 
         int ans = 0;
 
-        for (int i = L - 1; i < n - M; i++) {
+        // split point
+        for (int i = L; i <= n - M; i++) {
             ans = max(ans, left[i] + right[i + 1]);
         }
 
