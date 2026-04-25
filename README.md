@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1054-distant-barcodes](https://github.com/bikram993298/DSA-Practice/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1024-video-stitching](https://github.com/bikram993298/DSA-Practice/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
