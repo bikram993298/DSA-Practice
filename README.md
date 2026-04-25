@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/bikram993298/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/bikram993298/DSA-Practice/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -954,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/bikram993298/DSA-Practice/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/bikram993298/DSA-Practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -1006,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/bikram993298/DSA-Practice/tree/master/1034-coloring-a-border) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/bikram993298/DSA-Practice/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/bikram993298/DSA-Practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
