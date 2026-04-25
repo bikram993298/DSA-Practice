@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1024-video-stitching](https://github.com/bikram993298/DSA-Practice/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/bikram993298/DSA-Practice/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-odd-even-jump](https://github.com/bikram993298/DSA-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/bikram993298/DSA-Practice/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0991-broken-calculator](https://github.com/bikram993298/DSA-Practice/tree/master/0991-broken-calculator) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -796,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
+| [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -1153,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 ## Iterator
 |  |
 | ------- |
