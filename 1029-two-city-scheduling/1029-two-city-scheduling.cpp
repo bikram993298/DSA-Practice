@@ -10,7 +10,7 @@ public:
             if (a == n / 2 && b == n / 2)
                 return 0;
 
-            return 1e9; // invalid case
+            return 1e9; 
         }
 
         if (dp[i][a][b] != -1)
@@ -19,12 +19,12 @@ public:
         int sendA = 1e9;
         int sendB = 1e9;
 
-        // send current person to city A
+       
         if (a < n / 2) {
             sendA = costs[i][0] + solve(i + 1, a + 1, b, costs);
         }
 
-        // send current person to city B
+     
         if (b < n / 2) {
             sendB = costs[i][1] + solve(i + 1, a, b + 1, costs);
         }
