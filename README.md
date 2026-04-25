@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/bikram993298/DSA-Practice/tree/master/1034-coloring-a-border) |
+| [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1165,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
+| [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 ## Iterator
 |  |
 | ------- |
