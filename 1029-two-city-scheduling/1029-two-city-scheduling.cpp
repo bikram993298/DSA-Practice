@@ -1,14 +1,13 @@
 class Solution {
 public:
-    int totalPeople;   // total number of people
-    int half;          // people required in each city
+    int n;   // total number of people
     vector<vector<vector<int>>> dp;
 
     int solve(int i, int a, int b, vector<vector<int>>& costs) {
 
         // all people processed
-        if (i == totalPeople) {
-            if (a == half && b == half)
+        if (i == n) {
+            if (a == n / 2 && b == n / 2)
                 return 0;
 
             return 1e9; // invalid case
@@ -21,12 +20,12 @@ public:
         int sendB = 1e9;
 
         // send current person to city A
-        if (a < half) {
+        if (a < n / 2) {
             sendA = costs[i][0] + solve(i + 1, a + 1, b, costs);
         }
 
         // send current person to city B
-        if (b < half) {
+        if (b < n / 2) {
             sendB = costs[i][1] + solve(i + 1, a, b + 1, costs);
         }
 
@@ -35,12 +34,11 @@ public:
 
     int twoCitySchedCost(vector<vector<int>>& costs) {
 
-        totalPeople = costs.size();   // full size
-        half = totalPeople / 2;       // exactly half to each city
+        n = costs.size(); // total people
 
-        dp.resize(totalPeople,
-                  vector<vector<int>>(half + 1,
-                  vector<int>(half + 1, -1)));
+        dp.resize(n,
+                  vector<vector<int>>(n + 1,
+                  vector<int>(n + 1, -1)));
 
         return solve(0, 0, 0, costs);
     }
