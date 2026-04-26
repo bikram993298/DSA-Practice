@@ -6,6 +6,22 @@ public:
             return false;
         }
 
+//         Example:
+
+//     5
+//      \
+//       8
+
+// At node 5, recursion does:
+
+// solve(root->left, ...)
+// solve(root->right, ...)
+
+// which becomes:
+
+// solve(NULL, ...)
+// solve(8, ...)
+
         // leaf node
         if (root->left == NULL && root->right == NULL) {
             // true means this path is sufficient
