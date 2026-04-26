@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-smallest-string-starting-from-leaf](https://github.com/bikram993298/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-coloring-a-border](https://github.com/bikram993298/DSA-Practice/tree/master/1034-coloring-a-border) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/bikram993298/DSA-Practice/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -1081,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-smallest-string-starting-from-leaf](https://github.com/bikram993298/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
