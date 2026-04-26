@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/bikram993298/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/bikram993298/DSA-Practice/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1054-distant-barcodes](https://github.com/bikram993298/DSA-Practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/bikram993298/DSA-Practice/tree/master/1711-count-good-meals) |
@@ -1092,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
