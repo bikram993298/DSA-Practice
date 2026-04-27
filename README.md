@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -845,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1034-coloring-a-border](https://github.com/bikram993298/DSA-Practice/tree/master/1034-coloring-a-border) |
+| [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
+| [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
 | [3813-vowel-consonant-score](https://github.com/bikram993298/DSA-Practice/tree/master/3813-vowel-consonant-score) |
 | [3819-rotate-non-negative-elements](https://github.com/bikram993298/DSA-Practice/tree/master/3819-rotate-non-negative-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
