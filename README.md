@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
+| [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
