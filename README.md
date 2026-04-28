@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/bikram993298/DSA-Practice/tree/master/1711-count-good-meals) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bikram993298/DSA-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -704,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1054-distant-barcodes](https://github.com/bikram993298/DSA-Practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bikram993298/DSA-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2351-first-letter-to-appear-twice](https://github.com/bikram993298/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
@@ -1053,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/bikram993298/DSA-Practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
