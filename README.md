@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0519-random-flip-matrix) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/bikram993298/DSA-Practice/tree/main/0482-license-key-formatting/) | Easy |
 | [0504-base-7](https://github.com/bikram993298/DSA-Practice/tree/master/0504-base-7) |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/bikram993298/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bikram993298/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
