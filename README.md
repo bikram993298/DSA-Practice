@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
+| [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
@@ -792,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/bikram993298/DSA-Practice/tree/main/0482-license-key-formatting/) | Easy |
@@ -896,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/bikram993298/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
