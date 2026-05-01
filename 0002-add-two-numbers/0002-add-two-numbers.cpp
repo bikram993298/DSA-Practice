@@ -53,7 +53,7 @@ public:
          if(carry!=0){
             head->next=new ListNode(carry);
          }
-
+// follow up if node value greater tahn 9 then last summation 129 till it came to 0 then make nodes  
 
 
          return dummy->next;
