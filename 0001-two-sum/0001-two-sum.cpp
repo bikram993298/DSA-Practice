@@ -1,83 +1,25 @@
-// class Solution {
-// public:
-//     vector<int> twoSum(vector<int>& nums, int target) {
-//         map<int,int>mp;
-//         mp[0]=1;
-//         int sum=0;
-//         vector<int> anss;
-//         // for(int i=0;i<nums.size();i++){
-//         //     sum=sum+nums[i];
-//         //     mp[sum]++;
-//         // }
-//         // for(int i=0;i<nums.size();i++){
-//         //     mp[sum-]
-//         // }
-//         // sumi freqi
-//         // sumi indi
-//         // 1 2 3 3 
-//         // 1 0
-//         // 2 1
-//         // 3 {2 3}
-//         // map<int,vector<int>>
-//         for (int i = 0; i < nums.size(); i++) {
-//             mp[nums[i]] = i;
-//         }
-//         // 2 0
-//         // 7 1
-//         //,,
-
-//         for (int i = 0; i < nums.size(); i++) {
-//             if (mp.find(target - nums[i]) != mp.end()&&mp[target-nums[i]]!=i) {
-//                 anss.push_back(i);
-//                 anss.push_back(mp[target-nums[i]]);
-//                 break;
-//             }
-//         }
-//         return anss;
-//     }
-// };
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int, int> pairIdx;
-
-        for (int i = 0; i < nums.size(); ++i) {
-            int num = nums[i];
-            if (pairIdx.find(target - num) != pairIdx.end()) {
-                return {i, pairIdx[target - num]};
-            }
-            pairIdx[num] = i;
+        //o(nlogn)
+           int n=nums.size();
+        vector<pair<int,int>> p;
+        for(int i=0;i<n;i++){
+            p.push_back({nums[i],i});
         }
+        sort(p.begin(),p.end());
+     
+        int l=0,r=n-1;
+        while(l<r){
+            int sum=p[l].first+p[r].first;
+            if(sum==target) return {p[l].second,p[r].second};
+            if(sum>target){
 
-        return {};        
+                r--;
+            }else{
+                l++;
+            }
+        }
+        return {-1,-1};
     }
 };
-// by sorting and sliding window 
-// vector<int> twoSum(vector<int>& nums, int target) {
-//     vector<pair<int,int>> arr;
-    
-//     for(int i = 0; i < nums.size(); i++) {
-//         arr.push_back({nums[i], i});
-//     }
-    
-//     sort(arr.begin(), arr.end());
-    
-//     int left = 0, right = arr.size() - 1;
-    
-//     while(left < right) {
-//         int sum = arr[left].first + arr[right].first;
-        
-//         if(sum == target) {
-//             return {arr[left].second, arr[right].second};
-//         }
-//         else if(sum < target) {
-//             left++;
-//         }
-//         else {
-//             right--;
-//         }
-//     }
-    
-//     return {};
-// }
