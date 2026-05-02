@@ -1,74 +1,62 @@
-// class Solution {
-// public:
-//     bool isGood(int num) {
-//         bool changed = false;
-// // A number is good if:
-
-// // all digits are valid
-// // at least one digit changes after rotation
-//         while(num > 0) {
-//             int d = num % 10;
-
-//             // invalid digits
-//             if(d == 3 || d == 4 || d == 7) return false;
-
-//             // digits that change
-//             if(d == 2 || d == 5 || d == 6 || d == 9) {
-//                 changed = true;
-//             }
-
-//             num /= 10;
-//         }
-
-//         return changed;
-//     }
-
-//     int rotatedDigits(int n) {
-//         int count = 0;
-
-//         for(int i = 1; i <= n; i++) {
-//             if(isGood(i)) count++;
-//         }
-
-//         return count;
-//     }
-// };
-
-
 class Solution {
 public:
-    string s;
-    int dp[11][2][2];
-
-    int solve(int pos, bool tight, bool changed) {
-        if(pos == s.size()) {
-            return changed ? 1 : 0;
+ map<char, char> mp;
+    int rotate(int n) {
+        // 1 2 5
+        // 1  5    2
+        // o(n)
+        int ans1 = 0;
+        string res = "";
+         string s = to_string(n);
+        for (int i = 0; i < s.size(); i++) {
+            if (!mp.count(s[i])) {
+                return -1;
+            }
+            res += mp[s[i]];
         }
-
-        if(dp[pos][tight][changed] != -1)
-            return dp[pos][tight][changed];
-
-        int limit = tight ? s[pos] - '0' : 9;
-        int ans = 0;
-
-        for(int d = 0; d <= limit; d++) {
-            // skip invalid digits
-            if(d == 3 || d == 4 || d == 7) continue;
-
-            bool newChanged = changed || (d == 2 || d == 5 || d == 6 || d == 9);
-
-            ans += solve(pos + 1,
-                         tight && (d == limit),
-                         newChanged);
-        }
-
-        return dp[pos][tight][changed] = ans;
+        ans1 = stoi(res);
+        return ans1;
     }
-
     int rotatedDigits(int n) {
-        s = to_string(n);
-        memset(dp, -1, sizeof(dp));
+        // 0 ->0
+        // 1->1
+        // 2->5
+        // 5->2
+        // 6->9
+        // brute force
+        // fro loop 1->n  o(n)
+        // under the for loop we can use 10000 o(4) loop agian and find the
+        // roated number and compare if it is smae or not
+        // 1 0 0
+        // 1 0 0 not valid
+        int ans = 0;
+       
 
-        return solve(0, 1, 0);
+        mp[0 + '0'] = '0';
+        mp[1 + '0'] = '1';
+        mp[2 + '0'] = '5';
+        
+
+       
+        mp[5 + '0'] = '2';
+        mp[6 + '0'] = '9';
+       
+        mp[8 + '0'] = '8';
+        mp[9 + '0'] = '6';
+        
+        for (int i = 1; i <= n; i++) {
+            int num = i;
+            // 1 4 3
+            int rotated = rotate(num);
+            if (rotated == -1) {
+                continue;
+            }
+            if (num != rotated) {
+                ans++;
+            }
+        }
+         return ans;
     }
+   
+
 };
