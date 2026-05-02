@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-valid-tic-tac-toe-state](https://github.com/bikram993298/DSA-Practice/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/bikram993298/DSA-Practice/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/bikram993298/DSA-Practice/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0806-number-of-lines-to-write-string](https://github.com/bikram993298/DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0812-largest-triangle-area](https://github.com/bikram993298/DSA-Practice/tree/main/0812-largest-triangle-area/) | Easy |
 | [0813-largest-sum-of-averages](https://github.com/bikram993298/DSA-Practice/tree/master/0813-largest-sum-of-averages) |
@@ -823,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/bikram993298/DSA-Practice/tree/main/0784-letter-case-permutation/) | Medium |
 | [0791-custom-sort-string](https://github.com/bikram993298/DSA-Practice/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0806-number-of-lines-to-write-string](https://github.com/bikram993298/DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/bikram993298/DSA-Practice/tree/master/0925-long-pressed-name) |
