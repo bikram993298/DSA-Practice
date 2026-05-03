@@ -824,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/bikram993298/DSA-Practice/tree/main/0784-letter-case-permutation/) | Medium |
 | [0791-custom-sort-string](https://github.com/bikram993298/DSA-Practice/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0796-rotate-string](https://github.com/bikram993298/DSA-Practice/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/bikram993298/DSA-Practice/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/bikram993298/DSA-Practice/tree/master/0809-expressive-words) |
 | [0917-reverse-only-letters](https://github.com/bikram993298/DSA-Practice/tree/master/0917-reverse-only-letters) |
@@ -940,6 +941,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/bikram993298/DSA-Practice/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Trie
 |  |
