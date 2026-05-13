@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/bikram993298/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/bikram993298/DSA-Practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0756-pyramid-transition-matrix](https://github.com/bikram993298/DSA-Practice/tree/main/0756-pyramid-transition-matrix/) | Medium |
 | [0767-reorganize-string](https://github.com/bikram993298/DSA-Practice/tree/main/0767-reorganize-string/) | Medium |
@@ -938,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/bikram993298/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## String Matching
 |  |
@@ -1175,6 +1178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Design
 |  |
@@ -1185,6 +1189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bikram993298/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/bikram993298/DSA-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0732-my-calendar-iii) |
