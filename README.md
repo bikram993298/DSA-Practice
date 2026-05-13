@@ -768,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1030-matrix-cells-in-distance-order](https://github.com/bikram993298/DSA-Practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bikram993298/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -836,6 +837,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-string-without-aaa-or-bbb](https://github.com/bikram993298/DSA-Practice/tree/master/0984-string-without-aaa-or-bbb) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/bikram993298/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
+| [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bikram993298/DSA-Practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -896,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/bikram993298/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/bikram993298/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
+| [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
