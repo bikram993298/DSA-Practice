@@ -696,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1496-path-crossing](https://github.com/bikram993298/DSA-Practice/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -849,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bikram993298/DSA-Practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1496-path-crossing](https://github.com/bikram993298/DSA-Practice/tree/master/1496-path-crossing) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bikram993298/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
