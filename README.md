@@ -780,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bikram993298/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1492-the-kth-factor-of-n](https://github.com/bikram993298/DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
@@ -1296,4 +1297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/bikram993298/DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
