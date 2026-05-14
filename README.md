@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bikram993298/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1499-max-value-of-equation](https://github.com/bikram993298/DSA-Practice/tree/master/1499-max-value-of-equation) |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/bikram993298/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bikram993298/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
