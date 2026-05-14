@@ -12,15 +12,9 @@ public:
                 k = 0;
             }
             else {
-                // if i+k surpass j
-                if (i + k + 1 > j) {
-                    // i = j + k - 1;
-                    i = i + k + 1;
-                }
-                else {
-                    i = j;
-                }
-                j = i + 1;
+               
+                i=max(j,i+k+1);
+               j=i+1;
                 k = 0;
             }
         }
