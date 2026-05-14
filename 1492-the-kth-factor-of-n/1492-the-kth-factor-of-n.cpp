@@ -3,6 +3,7 @@ public:
     int kthFactor(int n, int k) {
         
         vector<int> largeFactors;
+        // to findn factors run till sqrt(n) because of 12,,1*12,2*6,3*4,then gain repeat
 
         for(int i = 1; i * i <= n; i++) {
 
@@ -16,6 +17,7 @@ public:
                 // avoid duplicate for perfect square
                 if(i != n / i)
                     largeFactors.push_back(n / i);
+                    // increasingly oushing because i is smaller so n/i will bebigger
             }
         }
 
