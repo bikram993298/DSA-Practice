@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1499-max-value-of-equation](https://github.com/bikram993298/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/bikram993298/DSA-Practice/tree/master/1711-count-good-meals) |
@@ -732,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/bikram993298/DSA-Practice/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bikram993298/DSA-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
