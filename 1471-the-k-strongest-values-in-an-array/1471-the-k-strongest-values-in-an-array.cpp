@@ -15,11 +15,12 @@ public:
                 int strengthB = abs(b - median);
 
                 // stronger first
-                if (strengthA != strengthB)
-                    return strengthA > strengthB;
+                if (strengthA == strengthB)
+                    return a > b;
+                   
 
                 // if same strength -> larger number first
-                return a > b;
+                 return strengthA > strengthB;
             });
 
         vector<int> ans;
