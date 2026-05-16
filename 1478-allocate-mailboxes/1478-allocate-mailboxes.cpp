@@ -71,6 +71,7 @@ public:
                 //         (houses[mid1] + houses[mid2]) / 2.0;
                 // }
                 int mid = (i + j) / 2;
+                // if odd we now ghat odd index,,and f even any of middle beauces we have to dind absolute dfference that will come same for all
 
 for(int x = i; x <= j; x++) {
 
