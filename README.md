@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bikram993298/DSA-Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/bikram993298/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/bikram993298/DSA-Practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -789,6 +790,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bikram993298/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1486-xor-operation-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/bikram993298/DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
