@@ -30,6 +30,8 @@ public:
     }
 
     // Overshot — restore oldest page as the floor
+
+    // if size is 1 and back 2 that meansyou should return 1,and the backst,it should keep last atleast one lemnt
     if (backSt.empty()) {
         backSt.push(forwardSt.top());  // ✅ put homepage back
         forwardSt.pop();
