@@ -6,12 +6,7 @@ public:
 
     int solve(int idx, int prevColor, int groups, vector<int>& houses,
               vector<vector<int>>& cost, int m, int n, int target) {
-
-        // too many neighborhoods
-        if (groups > target)
-            return INF;
-
-        // all houses processed
+// all houses processed
         if (idx == m) {
 
             if (groups == target)
@@ -19,6 +14,11 @@ public:
 
             return INF;
         }
+        // too many neighborhoods
+        if (groups > target)
+            return INF;
+
+        
 
         // memoization
         if (dp[idx][prevColor][groups] != -1)
