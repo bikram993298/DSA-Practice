@@ -7,3 +7,4 @@ public:
         
     }
 };
+// in o(n) find first maximum and secind maxmium
