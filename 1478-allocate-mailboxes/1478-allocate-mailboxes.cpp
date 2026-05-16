@@ -49,33 +49,33 @@ public:
 
             for(int j = i; j < n; j++) {
 
-                // int len = j - i + 1;
+                int len = j - i + 1;
 
-                // double median;
+                int median;
 
-                // // odd number of houses
-                // if(len % 2 == 1) {
+                // odd number of houses
+                if(len % 2 == 1) {
 
-                //     int mid = (i + j) / 2;
+                    int mid = (i + j) / 2;
 
-                //     median = houses[mid];
-                // }
+                    median = houses[mid];
+                }
 
-                // // even number of houses
-                // else {
+                // even number of houses
+                else {
 
-                //     int mid1 = (i + j) / 2;
-                //     int mid2 = mid1 + 1;
+                    int mid1 = (i + j) / 2;
+                    int mid2 = mid1 + 1;
 
-                //     median =
-                //         (houses[mid1] + houses[mid2]) / 2.0;
-                // }
-                int mid = (i + j) / 2;
+                    median =
+                        (houses[mid1] + houses[mid2]) / 2;
+                }
+                // int mid = (i + j) / 2;
                 // if odd we now ghat odd index,,and f even any of middle beauces we have to dind absolute dfference that will come same for all
 
 for(int x = i; x <= j; x++) {
 
-    cost[i][j] += abs(houses[x] - houses[mid]);
+    cost[i][j] += abs(houses[x] - median);
 }
 
               
