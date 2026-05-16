@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1487-making-file-names-unique](https://github.com/bikram993298/DSA-Practice/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/bikram993298/DSA-Practice/tree/master/1488-avoid-flood-in-the-city) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bikram993298/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1487-making-file-names-unique](https://github.com/bikram993298/DSA-Practice/tree/master/1487-making-file-names-unique) |
 | [1488-avoid-flood-in-the-city](https://github.com/bikram993298/DSA-Practice/tree/master/1488-avoid-flood-in-the-city) |
 | [1496-path-crossing](https://github.com/bikram993298/DSA-Practice/tree/master/1496-path-crossing) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -858,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bikram993298/DSA-Practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1487-making-file-names-unique](https://github.com/bikram993298/DSA-Practice/tree/master/1487-making-file-names-unique) |
 | [1496-path-crossing](https://github.com/bikram993298/DSA-Practice/tree/master/1496-path-crossing) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/bikram993298/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
