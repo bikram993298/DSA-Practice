@@ -23,25 +23,21 @@ public:
         }
     }
 
-    // string back(int steps) {
-
-    //     while (steps-- && backSt.size() > 1) {
-    //         curr = backSt.top();
-    //         forwardSt.push(curr);
-
-    //         backSt.pop();
-    //     }
-
-    //     return curr;
-    // }
-    string back(int steps) {
-        while (steps-- && backSt.size() > 1) {
-            forwardSt.push(backSt.top()); // push current page to forward
-            backSt.pop();                 // go back
-        }
-        // curr = backSt.top(); // ✅ now read the actual new current page
-        return backSt.top();
+   string back(int steps) {
+    while (steps-- && backSt.size() > 0) {
+        forwardSt.push(backSt.top());
+        backSt.pop();
     }
+
+    // Overshot — restore oldest page as the floor
+    if (backSt.empty()) {
+        backSt.push(forwardSt.top());  // ✅ put homepage back
+        forwardSt.pop();
+    }
+
+    curr = backSt.top();
+    return curr;
+}
 
     string forward(int steps) {
 
