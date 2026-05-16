@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
+| [1470-shuffle-the-array](https://github.com/bikram993298/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/bikram993298/DSA-Practice/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1473-paint-house-iii) |
 | [1476-subrectangle-queries](https://github.com/bikram993298/DSA-Practice/tree/master/1476-subrectangle-queries) |
