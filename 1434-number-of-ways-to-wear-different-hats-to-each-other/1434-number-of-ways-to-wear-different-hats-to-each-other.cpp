@@ -4,6 +4,7 @@ public:
     const int MOD = 1e9 + 7;
 
     vector<int> hatToPeople[41];
+    // in bitmask how define state alue 2^n n mask size
 
     int dp[41][1 << 10];
 
