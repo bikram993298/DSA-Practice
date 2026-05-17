@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/bikram993298/DSA-Practice/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/bikram993298/DSA-Practice/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1473-paint-house-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1473-paint-house-iii) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/bikram993298/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/bikram993298/DSA-Practice/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3364-minimum-positive-sum-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
