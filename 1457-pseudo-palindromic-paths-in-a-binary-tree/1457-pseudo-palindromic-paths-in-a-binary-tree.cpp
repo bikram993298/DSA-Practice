@@ -42,3 +42,25 @@ public:
         return ans;
     }
 };
+
+
+// You should think about backtracking whenever:
+
+// Rule
+
+// You pass a shared mutable structure in recursion like:
+
+// vector
+// string
+// map
+// set
+// frequency array
+// path array
+
+// AND you modify it during recursion.
+
+// Then ask:
+
+// "Will this modification affect other recursive branches?"
+
+// If YES → you need backtracking.
