@@ -675,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/bikram993298/DSA-Practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/bikram993298/DSA-Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bikram993298/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1488-avoid-flood-in-the-city](https://github.com/bikram993298/DSA-Practice/tree/master/1488-avoid-flood-in-the-city) |
@@ -826,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bikram993298/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/bikram993298/DSA-Practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1478-allocate-mailboxes](https://github.com/bikram993298/DSA-Practice/tree/master/1478-allocate-mailboxes) |
 | [1486-xor-operation-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/bikram993298/DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
