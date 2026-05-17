@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/bikram993298/DSA-Practice/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1473-paint-house-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1473-paint-house-iii) |
