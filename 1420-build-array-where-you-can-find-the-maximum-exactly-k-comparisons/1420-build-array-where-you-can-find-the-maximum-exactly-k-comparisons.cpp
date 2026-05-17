@@ -4,6 +4,7 @@ public:
     int N, M, K;
     int MOD = 1e9+7;
     int t[51][51][101];
+    // main idea  to find serach cost is longest inceasin sequnce lekthg will be search cost so ,here what we are doing going indeex by index thenputtin number 1 to m then cheking if greater than maxfar,,then sercaost ++
     
     int solve(int idx, int searchCost, int maxSoFar) {
         if(idx == N) {
