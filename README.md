@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bikram993298/DSA-Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/bikram993298/DSA-Practice/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bikram993298/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -499,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/bikram993298/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/bikram993298/DSA-Practice/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
@@ -766,6 +768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bikram993298/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -933,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/bikram993298/DSA-Practice/tree/master/1328-break-a-palindrome) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/bikram993298/DSA-Practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1446-consecutive-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1446-consecutive-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/bikram993298/DSA-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
