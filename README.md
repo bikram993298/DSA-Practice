@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
+| [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1302-deepest-leaves-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/bikram993298/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/bikram993298/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/1361-validate-binary-tree-nodes) |
@@ -1213,6 +1215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-shortest-path-with-alternating-colors](https://github.com/bikram993298/DSA-Practice/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1361-validate-binary-tree-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
