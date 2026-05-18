@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1345-jump-game-iv](https://github.com/bikram993298/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -775,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/bikram993298/DSA-Practice/tree/master/1110-delete-nodes-and-return-forest) |
 | [1122-relative-sort-array](https://github.com/bikram993298/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1345-jump-game-iv](https://github.com/bikram993298/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bikram993298/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1216,6 +1218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/bikram993298/DSA-Practice/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1302-deepest-leaves-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/bikram993298/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1361-validate-binary-tree-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/1361-validate-binary-tree-nodes) |
 | [1377-frog-position-after-t-seconds](https://github.com/bikram993298/DSA-Practice/tree/master/1377-frog-position-after-t-seconds) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
