@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/bikram993298/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3811-number-of-alternating-xor-partitions](https://github.com/bikram993298/DSA-Practice/tree/master/3811-number-of-alternating-xor-partitions) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/bikram993298/DSA-Practice/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
@@ -681,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/bikram993298/DSA-Practice/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/bikram993298/DSA-Practice/tree/master/3613-minimize-maximum-component-cost) |
 | [3634-minimum-removals-to-balance-array](https://github.com/bikram993298/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -799,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikram993298/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/bikram993298/DSA-Practice/tree/master/2399-check-distances-between-same-letters) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/bikram993298/DSA-Practice/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
@@ -830,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2351-first-letter-to-appear-twice](https://github.com/bikram993298/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3805-count-caesar-cipher-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3805-count-caesar-cipher-pairs) |
 ## Math
 |  |
