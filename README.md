@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1220-count-vowels-permutation](https://github.com/bikram993298/DSA-Practice/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikram993298/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/bikram993298/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/bikram993298/DSA-Practice/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/bikram993298/DSA-Practice/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikram993298/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1328-break-a-palindrome](https://github.com/bikram993298/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/bikram993298/DSA-Practice/tree/master/1433-check-if-a-string-can-break-another-string) |
