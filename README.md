@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/bikram993298/DSA-Practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bikram993298/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/bikram993298/DSA-Practice/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -634,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/bikram993298/DSA-Practice/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/bikram993298/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bikram993298/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -1044,6 +1046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1222-queens-that-can-attack-the-king](https://github.com/bikram993298/DSA-Practice/tree/master/1222-queens-that-can-attack-the-king) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/bikram993298/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3813-vowel-consonant-score](https://github.com/bikram993298/DSA-Practice/tree/master/3813-vowel-consonant-score) |
 | [3819-rotate-non-negative-elements](https://github.com/bikram993298/DSA-Practice/tree/master/3819-rotate-non-negative-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
