@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/bikram993298/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/bikram993298/DSA-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/bikram993298/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [2939-maximum-xor-product](https://github.com/bikram993298/DSA-Practice/tree/master/2939-maximum-xor-product) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/bikram993298/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -1399,6 +1401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0062-unique-paths) |
+| [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/bikram993298/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 ## Reservoir Sampling
 |  |
 | ------- |
