@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1220-count-vowels-permutation](https://github.com/bikram993298/DSA-Practice/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
 | [1340-jump-game-v](https://github.com/bikram993298/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
