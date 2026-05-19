@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/bikram993298/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
@@ -1019,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1476-subrectangle-queries](https://github.com/bikram993298/DSA-Practice/tree/master/1476-subrectangle-queries) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/bikram993298/DSA-Practice/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/bikram993298/DSA-Practice/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/3742-maximum-path-score-in-a-grid) |
