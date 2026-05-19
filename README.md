@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1306-jump-game-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/bikram993298/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/bikram993298/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1223-dice-roll-simulation](https://github.com/bikram993298/DSA-Practice/tree/master/1223-dice-roll-simulation) |
+| [1340-jump-game-v](https://github.com/bikram993298/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/bikram993298/DSA-Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/bikram993298/DSA-Practice/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bikram993298/DSA-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/bikram993298/DSA-Practice/tree/master/1402-reducing-dishes) |
