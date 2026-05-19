@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> sortArrayByParityII(vector<int>& nums) {
         int i = 0, j = 1;
+        //i is evven and j will correspond to odd,so i+2,j+2
         int n = nums.size();
 
         while (i < n && j < n) {
