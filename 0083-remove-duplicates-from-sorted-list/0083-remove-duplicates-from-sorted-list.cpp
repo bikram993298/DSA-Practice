@@ -4,6 +4,7 @@ public:
         if(!head) return head;
 
         ListNode* curr = head;
+        // when you compare two nodes check cuure && curr->next  exist
 
         while(curr && curr->next) {
             // eqal same
