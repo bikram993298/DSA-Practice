@@ -916,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-robot-bounded-in-circle](https://github.com/bikram993298/DSA-Practice/tree/master/1041-robot-bounded-in-circle) |
 | [1103-distribute-candies-to-people](https://github.com/bikram993298/DSA-Practice/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/bikram993298/DSA-Practice/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/bikram993298/DSA-Practice/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/bikram993298/DSA-Practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1478-allocate-mailboxes](https://github.com/bikram993298/DSA-Practice/tree/master/1478-allocate-mailboxes) |
@@ -1121,6 +1122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/bikram993298/DSA-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/bikram993298/DSA-Practice/tree/master/0706-design-hashmap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bikram993298/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/bikram993298/DSA-Practice/tree/master/1472-design-browser-history) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/bikram993298/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
