@@ -1,60 +1,31 @@
-// /**
-//  * Definition for singly-linked list.
-//  * struct ListNode {
-//  *     int val;
-//  *     ListNode *next;
-//  *     ListNode() : val(0), next(nullptr) {}
-//  *     ListNode(int x) : val(x), next(nullptr) {}
-//  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
-//  * };
-//  */
-// class Solution {
-// public:
-//     ListNode* removeNthFromEnd(ListNode* head, int n) {
-//            ListNode* dummy = new ListNode(0);
-//            dummy->next=head;
-//         ListNode* left = dummy;
-//         ListNode* right = dummy;
-
-//         while (n > 0) {
-//             right = right->next;
-//             n--;
-//         }
-
-//         while (right->next != nullptr) {
-//             left = left->next;
-//             right = right->next;
-//         }
-
-//         left->next = left->next->next;
-//         return dummy->next;
-        
-//     }
-// };
-
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int len = 0;
-        ListNode* dummy=new ListNode(0);
-        dummy->next=head;
-        ListNode* t = head;
 
-        while(t){
-            len++;
-            t = t->next;
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* fast = dummy;
+        ListNode* slow = dummy;
+
+//         We keep a gap of n nodes between fast and slow.
+
+// When fast reaches end,
+// slow will automatically reach node before deletion node.
+
+        // move fast n steps ahead
+        for(int i = 0; i < n; i++) {
+            fast = fast->next;
         }
 
-        if(len- n==0) return head->next;
-
-        int pos = len - n;
-        t = head;
-
-        for(int i = 1; i < pos; i++){
-            t = t->next;
+        // move both together
+        while(fast->next) {
+            fast = fast->next;
+            slow = slow->next;
         }
 
-        t->next = t->next->next;
+        // delete node
+        slow->next = slow->next->next;
 
         return dummy->next;
     }
