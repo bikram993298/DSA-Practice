@@ -1,11 +1,11 @@
 static int dp[101][27][101][101];
+// it is allocated in heap
 class Solution {
 public:
-
     //  static int dp[101][27][101][101];
+    // it is laoocsted in stack
 
-    int solve(int idx, int prev, int cnt,
-              int k, string& s) {
+    int solve(int idx, int prev, int cnt, int k, string& s) {
 
         if (k < 0)
             return 1e9;
@@ -32,22 +32,11 @@ public:
             if (cnt == 1 || cnt == 9 || cnt == 99)
                 add = 1;
 
-            res = min(res,
-                      add + solve(idx + 1,
-                                  prev,
-                                  cnt + 1,
-                                  k,
-                                  s));
-        }
-        else {
+            res = min(res, add + solve(idx + 1, prev, cnt + 1, k, s));
+        } else {
 
             // start new group
-            res = min(res,
-                      1 + solve(idx + 1,
-                                curr,
-                                1,
-                                k,
-                                s));
+            res = min(res, 1 + solve(idx + 1, curr, 1, k, s));
         }
 
         return dp[idx][prev][cnt][k] = res;
