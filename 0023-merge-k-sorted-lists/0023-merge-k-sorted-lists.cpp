@@ -18,6 +18,7 @@ public:
                 //why min heap mug up 
             }
         };
+        // to use pq in list beacuse this are not int ,,so linked list what will they compare,adrees orsomethihng thats ehy
 
         priority_queue<ListNode*, vector<ListNode*>, cmp> pq;
 
