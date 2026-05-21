@@ -11,32 +11,38 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        // Min-heap based on node values
-        auto cmp = [](ListNode* a, ListNode* b) {
-            return a->val > b->val;
-            // min heap a> b always 
+        struct cmp {
+           // min heap
+            bool operator()(ListNode* a, ListNode* b) {
+                return a->val > b->val;
+                //why min heap mug up 
+            }
         };
-        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
+
+        priority_queue<ListNode*, vector<ListNode*>, cmp> pq;
 
         // Push the head of each list into the heap
         for (auto node : lists) {
-            if (node) pq.push(node);
+            if (node)
+                pq.push(node);
         }
-ListNode* dummy = new ListNode(0);
-ListNode* tail = dummy;
- // tail pointer to build the result list
+        // when there is nerge bew ilst n=making use dymmy list
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
+        // tail pointer to build the result list
 
         while (!pq.empty()) {
             ListNode* node = pq.top();
             pq.pop();
 
-            tail->next = node;     // attach the smallest node
-            tail = node;           // move tail forward
+            tail->next = node; // attach the smallest node
+            tail = node;       // move tail forward
 
-            if (tail->next) pq.push(tail->next);  // push next node from same list
+            if (tail->next)
+                pq.push(tail->next); // push next node from same list
         }
 
-        return dummy->next;  // return merged list (skip dummy node)
+        return dummy->next; // return merged list (skip dummy node)
     }
 };
 
