@@ -21,6 +21,7 @@ public:
         // OPTION 1:
         // pair adjacent mismatches
         // using adjacent operations
+        // open means ther is  a option you can swap i,with anyj,,for that you can use for loop but that soemhow u selected some ,in next recusion how u will think ehich j,i you seelcted nis 500 no bitmask can store so,,open i sised you are taken that index and after that you will comoensate that at any index
         // -----------------------------------
         if (i < d.size() - 1) {
 
@@ -36,6 +37,7 @@ public:
 
         // -----------------------------------
         // OPTION 3:
+        // previously you selected some i,,that you are mismtaching by decreasing open and cost is previosuly added
         // close one previously open mismatch
         // -----------------------------------
         if (open > 0) {
@@ -54,7 +56,7 @@ public:
 
         // collect mismatch positions
         for (int i = 0; i < n; i++) {
-
+// i have made a vector where only mismatechdd index will be threr we use dp in that
             if (s1[i] != s2[i]) {
                 d.push_back(i);
             }
