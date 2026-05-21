@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/bikram993298/DSA-Practice/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2930-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/bikram993298/DSA-Practice/tree/master/2930-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
@@ -1000,6 +1001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2351-first-letter-to-appear-twice](https://github.com/bikram993298/DSA-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2399-check-distances-between-same-letters](https://github.com/bikram993298/DSA-Practice/tree/master/2399-check-distances-between-same-letters) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/bikram993298/DSA-Practice/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/bikram993298/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bikram993298/DSA-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/bikram993298/DSA-Practice/tree/master/3798-largest-even-number) |
