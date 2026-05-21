@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3077-maximum-strength-of-k-disjoint-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/3077-maximum-strength-of-k-disjoint-subarrays) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikram993298/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/bikram993298/DSA-Practice/tree/master/2399-check-distances-between-same-letters) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/bikram993298/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikram993298/DSA-Practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2384-largest-palindromic-number](https://github.com/bikram993298/DSA-Practice/tree/master/2384-largest-palindromic-number) |
 | [2399-check-distances-between-same-letters](https://github.com/bikram993298/DSA-Practice/tree/master/2399-check-distances-between-same-letters) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/bikram993298/DSA-Practice/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/bikram993298/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/bikram993298/DSA-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/bikram993298/DSA-Practice/tree/master/3798-largest-even-number) |
@@ -1134,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
 | ------- |
