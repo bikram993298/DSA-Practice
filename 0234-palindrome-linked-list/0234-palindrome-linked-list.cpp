@@ -48,7 +48,7 @@ public:
         ListNode* second = reverse(slow);
         ListNode* first = head;
         
-     
+     // second reach last null loop off so econd works
         while(second) {
             if(first->val != second->val) return false;
             first = first->next;
