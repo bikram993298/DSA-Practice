@@ -33,7 +33,7 @@ public:
     }
     
     bool isPalindrome(ListNode* head) {
-        if(!head || !head->next) return true;
+        // if(!head || !head->next) return true;
         
         //find middle
         ListNode* slow = head;
