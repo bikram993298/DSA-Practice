@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0506-relative-ranks](https://github.com/bikram993298/DSA-Practice/tree/master/0506-relative-ranks) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/bikram993298/DSA-Practice/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0576-out-of-boundary-paths) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/bikram993298/DSA-Practice/tree/master/0332-reconstruct-itinerary) |
 | [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0437-path-sum-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0437-path-sum-iii) |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/bikram993298/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -659,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0506-relative-ranks](https://github.com/bikram993298/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -943,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/bikram993298/DSA-Practice/tree/main/0482-license-key-formatting/) | Easy |
 | [0504-base-7](https://github.com/bikram993298/DSA-Practice/tree/master/0504-base-7) |
@@ -1120,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/bikram993298/DSA-Practice/tree/master/0692-top-k-frequent-words) |
