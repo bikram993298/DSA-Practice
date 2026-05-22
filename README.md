@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bikram993298/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/bikram993298/DSA-Practice/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2540-minimum-common-value](https://github.com/bikram993298/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2680-maximum-or](https://github.com/bikram993298/DSA-Practice/tree/master/2680-maximum-or) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/bikram993298/DSA-Practice/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/bikram993298/DSA-Practice/tree/master/1488-avoid-flood-in-the-city) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2540-minimum-common-value](https://github.com/bikram993298/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/bikram993298/DSA-Practice/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/bikram993298/DSA-Practice/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/bikram993298/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/bikram993298/DSA-Practice/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/bikram993298/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
@@ -845,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikram993298/DSA-Practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/bikram993298/DSA-Practice/tree/master/2399-check-distances-between-same-letters) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
+| [2540-minimum-common-value](https://github.com/bikram993298/DSA-Practice/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikram993298/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/bikram993298/DSA-Practice/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/bikram993298/DSA-Practice/tree/master/3186-maximum-total-damage-with-spell-casting) |
