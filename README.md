@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/bikram993298/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/bikram993298/DSA-Practice/tree/master/0996-number-of-squareful-arrays) |
 | [0999-available-captures-for-rook](https://github.com/bikram993298/DSA-Practice/tree/master/0999-available-captures-for-rook) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bikram993298/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/bikram993298/DSA-Practice/tree/master/1014-best-sightseeing-pair) |
 | [1023-camelcase-matching](https://github.com/bikram993298/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1024-video-stitching](https://github.com/bikram993298/DSA-Practice/tree/master/1024-video-stitching) |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0786-k-th-smallest-prime-fraction](https://github.com/bikram993298/DSA-Practice/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/bikram993298/DSA-Practice/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/bikram993298/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/bikram993298/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1300-sum-of-mutated-array-closest-to-target](https://github.com/bikram993298/DSA-Practice/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
