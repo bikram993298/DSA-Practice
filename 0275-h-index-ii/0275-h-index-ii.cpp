@@ -15,13 +15,13 @@ public:
 
             int h = n - mid;
 
-            if (citations[mid] >= h) {
+            if (mid <= h) {
 
-                ans = h;      // valid h-index
-                r = mid - 1;  // try to find bigger h
+                ans = mid;      // valid h-index
+                l = mid + 1;  // try to find bigger h
             } 
             else {
-                l = mid + 1;
+                r = mid - 1;
             }
         }
 
