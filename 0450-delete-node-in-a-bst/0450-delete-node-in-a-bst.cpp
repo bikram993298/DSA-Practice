@@ -45,14 +45,22 @@ class Solution {
 public:
 
     // Function to find minimum value node (inorder successor)
+    // TreeNode* findMin(TreeNode* root) {
+    //     TreeNode* mini;
+    //     while(root) {
+    //         mini=root;
+    //         root = root->left;
+    //     }
+    //     return mini;
+    // }
     TreeNode* findMin(TreeNode* root) {
-        TreeNode* mini;
-        while(root) {
-            mini=root;
-            root = root->left;
-        }
-        return mini;
+
+    while(root->left) {
+        root = root->left;
     }
+
+    return root;
+}
 
     TreeNode* deleteNode(TreeNode* root, int key) {
 
