@@ -103,3 +103,92 @@ public:
         return root;
     }
 };
+
+
+
+// Case: Node has TWO children
+//         5
+//        / \
+//       3   8
+//          / \
+//         6   9
+
+// Suppose we delete 5.
+
+// We cannot directly remove it because:
+
+// left subtree must stay < root
+// right subtree must stay > root
+
+// So we need a replacement node.
+
+// Why Inorder Successor?
+
+// We choose:
+
+// Smallest node in right subtree
+
+// Because it is:
+
+// greater than all left subtree values
+// smallest possible greater value
+
+// So BST remains valid.
+
+// This Part
+// TreeNode* successor = findMin(root->right);
+
+// Find smallest node in right subtree.
+
+// Example
+
+// Right subtree of 5:
+
+//       8
+//      / \
+//     6   9
+
+// Minimum = 6
+
+// So:
+
+// successor = 6
+// Next Line
+// root->val = successor->val;
+
+// We COPY successor value into current node.
+
+// So tree becomes:
+
+//         6
+//        / \
+//       3   8
+//          / \
+//         6   9
+
+// Notice:
+
+// Now there are TWO 6s.
+
+// We only copied value,
+// NOT deleted original successor yet.
+
+// Final Line
+// root->right = deleteNode(root->right, successor->val);
+
+// Now delete duplicate 6
+// from right subtree.
+
+// Why from right subtree only?
+
+// Because successor always exists there.
+
+// After deletion:
+
+//         6
+//        / \
+//       3   8
+//            \
+//             9
+
+// Now BST is correct again.
