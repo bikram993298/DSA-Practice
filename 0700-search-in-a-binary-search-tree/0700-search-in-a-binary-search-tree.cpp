@@ -3,7 +3,7 @@ public:
     
     TreeNode* searchBST(TreeNode* root, int val) {
         
-        if (root == NULL)
+        if (!root)
             return NULL;
         
         if (root->val == val)
