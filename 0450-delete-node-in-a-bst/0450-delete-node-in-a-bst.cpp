@@ -46,10 +46,12 @@ public:
 
     // Function to find minimum value node (inorder successor)
     TreeNode* findMin(TreeNode* root) {
-        while(root->left != NULL) {
+        TreeNode* mini;
+        while(root) {
+            mini=root;
             root = root->left;
         }
-        return root;
+        return mini;
     }
 
     TreeNode* deleteNode(TreeNode* root, int key) {
