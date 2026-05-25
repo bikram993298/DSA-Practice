@@ -1,5 +1,8 @@
 class TrieNode {
 public:
+
+// Final TC = O(N)
+
     TrieNode* children[2];
 
     TrieNode() {
