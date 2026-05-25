@@ -1,4 +1,4 @@
-class TrieNode {
+struct TrieNode {
 public:
     TrieNode* children[26];
     string word;  // stores word if this node is end
