@@ -1,67 +1,62 @@
 class Trie {
-    private:
-    struct TrieNode {
-        TrieNode* children[26];
+public:
+   struct TrieNode {
+        TrieNode* child[26];
         bool isend;
 
-        TrieNode(){
-            isend=false;
-            for(int i=0;i<26;i++){
-                children[i]=nullptr;
+        TrieNode() {
+            isend = false;
+
+            for (int i = 0; i < 26; i++) {
+                child[i] = NULL;
             }
         }
-        
     };
     TrieNode* root;
-public:
-    Trie() {
-       root=new TrieNode(); 
-    }
-    
+
+    Trie() { root = new TrieNode(); }
+
     void insert(string word) {
-        TrieNode* current=root;
-        for(char character:word){
-            int index=character-'a';
-            if(current->children[index]==nullptr){
-                current->children[index]=new TrieNode();
+        TrieNode* current = root;
+        for (auto it : word) {
+            int index = it - 'a';
+            if(current->child[index] == nullptr) {
+                current->child[index] = new TrieNode();
             }
 
-            current=current->children[index];
+            current = current->child[index];
         }
 
-        current->isend=true;
-        
+        current->isend = true;
     }
-    
+
     bool search(string word) {
-         TrieNode* current = root;
-        
-        for(char character : word) {
-            int index = character - 'a';
-            
-            if(current->children[index] == nullptr)
+        TrieNode* current = root;
+        for (auto it : word) {
+            int index = it - 'a';
+
+            if (current->child[index] == NULL) {
                 return false;
-            
-            current = current->children[index];
+            }
+            current = current->child[index];
         }
-        
+
         return current->isend;
     }
-    
+
     bool startsWith(string prefix) {
-         TrieNode* current = root;
-        
-        for(char character : prefix) {
+        TrieNode* current = root;
+
+        for (char character : prefix) {
             int index = character - 'a';
-            
-            if(current->children[index] == nullptr)
+
+            if (current->child[index] == nullptr)
                 return false;
-            
-            current = current->children[index];
+
+            current = current->child[index];
         }
-        
-        return true;;
-        
+
+        return true;
     }
 };
 
