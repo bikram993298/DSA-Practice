@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/bikram993298/DSA-Practice/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bikram993298/DSA-Practice/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/bikram993298/DSA-Practice/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0456-132-pattern](https://github.com/bikram993298/DSA-Practice/tree/main/0456-132-pattern/) | Medium |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bikram993298/DSA-Practice/tree/master/0342-power-of-four) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
@@ -800,6 +802,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/bikram993298/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
@@ -1157,6 +1160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/0677-map-sum-pairs) |
