@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/bikram993298/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
@@ -818,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/bikram993298/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/bikram993298/DSA-Practice/tree/main/0454-4sum-ii/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0519-random-flip-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/0519-random-flip-matrix) |
@@ -994,6 +996,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/bikram993298/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/bikram993298/DSA-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/bikram993298/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
