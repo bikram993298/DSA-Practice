@@ -1,5 +1,7 @@
 class Solution {
 public:
+// in permutation bewtwtwon two strings frequency will be same
+
 
     bool check(vector<int>& a, vector<int>& b) {
 
