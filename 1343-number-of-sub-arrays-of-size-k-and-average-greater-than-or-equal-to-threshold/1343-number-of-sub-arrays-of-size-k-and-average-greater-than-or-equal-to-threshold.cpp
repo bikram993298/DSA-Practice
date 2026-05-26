@@ -3,31 +3,35 @@ public:
     int numOfSubarrays(vector<int>& arr, int k, int threshold) {
 
         int n = arr.size();
-        // the question actaully find number of subarry ehwere sum is k*
-        // thresold and sizek
 
-        int target = k * threshold;
+        int target = threshold * k;
 
         int sum = 0;
 
-        // first window
-        for (int i = 0; i < k; i++) {
-            sum += arr[i];
-        }
+        int left = 0;
 
         int count = 0;
 
-        if (sum >= target)
-            count++;
+        for(int right = 0; right < n; right++) {
 
-        // sliding window
-        for (int i = k; i < n; i++) {
+            // include current element
+            sum += arr[right];
 
-            sum += arr[i];
-            sum -= arr[i - k];
+            // maintain window size k
+            if(right - left + 1 > k) {
 
-            if (sum >= target)
-                count++;
+                sum -= arr[left];
+
+                left++;
+            }
+
+            // valid window
+            if(right - left + 1 == k) {
+
+                if(sum >= target) {
+                    count++;
+                }
+            }
         }
 
         return count;
