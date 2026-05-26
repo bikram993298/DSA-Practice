@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
 | [0275-h-index-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/bikram993298/DSA-Practice/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/bikram993298/DSA-Practice/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/bikram993298/DSA-Practice/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/bikram993298/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/bikram993298/DSA-Practice/tree/master/0443-string-compression) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/bikram993298/DSA-Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
