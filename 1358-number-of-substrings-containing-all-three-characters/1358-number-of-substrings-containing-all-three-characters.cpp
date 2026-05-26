@@ -14,7 +14,7 @@ public:
 
             freq[s[right] - 'a']++;
 
-            // valid window
+            // valid window when atleast is there
             while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
 
                 count += (n - right);
