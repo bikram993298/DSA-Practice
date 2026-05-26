@@ -1148,6 +1148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bikram993298/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/bikram993298/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/bikram993298/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0388-longest-absolute-file-path](https://github.com/bikram993298/DSA-Practice/tree/master/0388-longest-absolute-file-path) |
@@ -1461,6 +1462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/bikram993298/DSA-Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/bikram993298/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0676-implement-magic-dictionary](https://github.com/bikram993298/DSA-Practice/tree/master/0676-implement-magic-dictionary) |
