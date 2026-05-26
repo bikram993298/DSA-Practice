@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bikram993298/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/bikram993298/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -1052,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1446-consecutive-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1446-consecutive-characters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/bikram993298/DSA-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bikram993298/DSA-Practice/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bikram993298/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bikram993298/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1487-making-file-names-unique](https://github.com/bikram993298/DSA-Practice/tree/master/1487-making-file-names-unique) |
 | [1496-path-crossing](https://github.com/bikram993298/DSA-Practice/tree/master/1496-path-crossing) |
