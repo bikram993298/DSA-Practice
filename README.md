@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/bikram993298/DSA-Practice/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/bikram993298/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0975-odd-even-jump](https://github.com/bikram993298/DSA-Practice/tree/main/0975-odd-even-jump/) | Hard |
 | [0978-longest-turbulent-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/bikram993298/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bikram993298/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0732-my-calendar-iii) |
 | [0813-largest-sum-of-averages](https://github.com/bikram993298/DSA-Practice/tree/master/0813-largest-sum-of-averages) |
+| [0930-binary-subarrays-with-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bikram993298/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/bikram993298/DSA-Practice/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/bikram993298/DSA-Practice/tree/master/1109-corporate-flight-bookings) |
@@ -831,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0923-3sum-with-multiplicity](https://github.com/bikram993298/DSA-Practice/tree/master/0923-3sum-with-multiplicity) |
 | [0928-minimize-malware-spread-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0929-unique-email-addresses](https://github.com/bikram993298/DSA-Practice/tree/main/0929-unique-email-addresses/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/bikram993298/DSA-Practice/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bikram993298/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
