@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikram993298/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1499-max-value-of-equation](https://github.com/bikram993298/DSA-Practice/tree/master/1499-max-value-of-equation) |
@@ -850,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/bikram993298/DSA-Practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1345-jump-game-iv](https://github.com/bikram993298/DSA-Practice/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/bikram993298/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1031,6 +1033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1221-split-a-string-in-balanced-strings](https://github.com/bikram993298/DSA-Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikram993298/DSA-Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1328-break-a-palindrome](https://github.com/bikram993298/DSA-Practice/tree/master/1328-break-a-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bikram993298/DSA-Practice/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/bikram993298/DSA-Practice/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1446-consecutive-characters](https://github.com/bikram993298/DSA-Practice/tree/master/1446-consecutive-characters) |
