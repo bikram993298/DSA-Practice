@@ -1,22 +1,39 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
+
         int n = nums.size();
-        int i = n - 2;
 
-        //  find pivot (rightmost dip)
-        while (i >= 0 && nums[i] >= nums[i + 1])
-            i--;
+        int ind = -1;
 
-        // find swap target and swap
-        if (i >= 0) {
-            int j = n - 1;
-            while (nums[j] <= nums[i])
-                j--;
-            swap(nums[i], nums[j]);
+        // Step 1: Find breakpoint
+        for(int i = n - 2; i >= 0; i--) {
+
+            if(nums[i] < nums[i + 1]) {
+
+                ind = i;
+                break;
+            }
         }
 
-        //  reverse the suffix
-        reverse(nums.begin() + i + 1, nums.end());
+        // Already largest permutation
+        if(ind == -1) {
+
+            reverse(nums.begin(), nums.end());
+            return;
+        }
+
+        // Step 2: Find just greater element
+        for(int i = n - 1; i > ind; i--) {
+
+            if(nums[i] > nums[ind]) {
+
+                swap(nums[i], nums[ind]);
+                break;
+            }
+        }
+
+        // Step 3: Reverse suffix
+        reverse(nums.begin() + ind + 1, nums.end());
     }
 };
