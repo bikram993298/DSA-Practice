@@ -6,6 +6,8 @@ public:
             return 0;
         if (dp[i][j] != -1)
             return dp[i][j];
+            // solve i,j menas minimum cost to cut stick segment
+// from cuts[i] to cuts[j]
 
         // 0 1 3 4 5 7
         int final = 10e6;
