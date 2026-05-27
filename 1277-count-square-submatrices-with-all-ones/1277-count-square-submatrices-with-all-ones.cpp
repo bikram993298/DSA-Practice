@@ -27,6 +27,7 @@ public:
         int result = 0;
         m = grid.size();
         n = grid[0].size();
+        // lets thnk in thsi way i am in 0,0 to make it include i need to see left ,fignlo,down min of them we will add that side distance because what will the distacne that will be te number of squares
         vector<vector<int>> t(m, vector<int>(n, -1));
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
