@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/bikram993298/DSA-Practice/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1499-max-value-of-equation](https://github.com/bikram993298/DSA-Practice/tree/master/1499-max-value-of-equation) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bikram993298/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/bikram993298/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/bikram993298/DSA-Practice/tree/master/1478-allocate-mailboxes) |
 | [1531-string-compression-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1531-string-compression-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bikram993298/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikram993298/DSA-Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bikram993298/DSA-Practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/bikram993298/DSA-Practice/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/bikram993298/DSA-Practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/bikram993298/DSA-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/bikram993298/DSA-Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/bikram993298/DSA-Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/bikram993298/DSA-Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/bikram993298/DSA-Practice/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/bikram993298/DSA-Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
