@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/bikram993298/DSA-Practice/tree/master/1037-valid-boomerang) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1043-partition-array-for-maximum-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1054-distant-barcodes](https://github.com/bikram993298/DSA-Practice/tree/master/1054-distant-barcodes) |
 | [1090-largest-values-from-labels](https://github.com/bikram993298/DSA-Practice/tree/master/1090-largest-values-from-labels) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1024-video-stitching](https://github.com/bikram993298/DSA-Practice/tree/master/1024-video-stitching) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/bikram993298/DSA-Practice/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/bikram993298/DSA-Practice/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1043-partition-array-for-maximum-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1043-partition-array-for-maximum-sum) |
 | [1049-last-stone-weight-ii](https://github.com/bikram993298/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1220-count-vowels-permutation](https://github.com/bikram993298/DSA-Practice/tree/master/1220-count-vowels-permutation) |
