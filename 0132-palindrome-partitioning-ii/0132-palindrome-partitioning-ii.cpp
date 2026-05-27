@@ -1,36 +1,49 @@
-class Solution {
-public:
-    vector<int> dp;
 
-    bool isPalindrome(string& s, int l, int r) {
-        while(l < r) {
-            if(s[l] != s[r]) return false;
-            l++; r--;
+class Solution {
+private:
+    // Check if substring s[start...end] is palindrome
+    bool isPalindrome(const string& s, int start, int end) {
+        while (start < end) {
+            if (s[start] != s[end])
+                return false;
+            start++;
+            end--;
         }
         return true;
     }
 
-    int solve(int i, string& s) {
-        if(i == s.size()) return 0;
+    // Recursive helper with memoization to find min cuts from index 'start'
+    int minCutsHelper(const string& s, int start, vector<int>& memo) {
+        int n = (int)s.size();
 
-        if(dp[i] != -1) return dp[i];
+        // If reached end or substring is palindrome, no cut needed
+        if (start == n || isPalindrome(s, start, n - 1))
+            return 0;
 
-        int mini = INT_MAX;
+        // Return stored result if already computed
+        if (memo[start] != -1)
+            return memo[start];
 
-        for(int j = i; j < s.size(); j++) {
-            if(isPalindrome(s, i, j)) {
-                int cost = 1 + solve(j + 1, s);
-                mini = min(mini, cost);
+        int minCuts = INT_MAX;
+
+        // Try all possible partitions
+        for (int end = start; end < n; end++) {
+            if (isPalindrome(s, start, end)) {
+                // 1  cut plus cuts for the remaining substring
+                int cuts = 1 + minCutsHelper(s, end + 1, memo);
+                minCuts = min(minCuts, cuts);
             }
         }
 
-        return dp[i] = mini;
+        // Store and return minimum cuts needed from this start
+        return memo[start] = minCuts;
     }
 
+public:
+    // Public function to get minimum cuts for palindrome partitioning
     int minCut(string s) {
-        int n = s.size();
-        dp.assign(n, -1);
-
-        return solve(0, s) - 1; // subtract 1 for cuts
+        int n = (int)s.size();
+        vector<int> memo(n, -1);
+        return minCutsHelper(s, 0, memo);
     }
 };
