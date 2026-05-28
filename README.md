@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/bikram993298/DSA-Practice/tree/master/0477-total-hamming-distance) |
+| [0494-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/bikram993298/DSA-Practice/tree/master/0506-relative-ranks) |
 | [0517-super-washing-machines](https://github.com/bikram993298/DSA-Practice/tree/master/0517-super-washing-machines) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0472-concatenated-words](https://github.com/bikram993298/DSA-Practice/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/bikram993298/DSA-Practice/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/bikram993298/DSA-Practice/tree/master/0629-k-inverse-pairs-array) |
@@ -1282,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/bikram993298/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/bikram993298/DSA-Practice/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/bikram993298/DSA-Practice/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/bikram993298/DSA-Practice/tree/master/0638-shopping-offers) |
 | [0679-24-game](https://github.com/bikram993298/DSA-Practice/tree/master/0679-24-game) |
