@@ -24,6 +24,7 @@ public:
       
         if (isSame(root, subRoot))
             return true;
+            //o(n*m)
 
         return isSubtree(root->left, subRoot) ||
                isSubtree(root->right, subRoot);
