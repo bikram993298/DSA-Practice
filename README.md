@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bikram993298/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0213-house-robber-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bikram993298/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/bikram993298/DSA-Practice/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/bikram993298/DSA-Practice/tree/master/0220-contains-duplicate-iii) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikram993298/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/bikram993298/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0213-house-robber-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/bikram993298/DSA-Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/bikram993298/DSA-Practice/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/bikram993298/DSA-Practice/tree/master/0413-arithmetic-slices) |
