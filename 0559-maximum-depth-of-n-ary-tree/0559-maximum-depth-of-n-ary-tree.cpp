@@ -23,11 +23,11 @@ public:
     int maxDepth(Node* root) {
         if (!root) return 0;
 
-        int depth = 1;
+        int depth = 0;
         for (auto child : root->children) {
-            depth = max(depth, 1 + maxDepth(child));
+            depth = max(depth,  maxDepth(child));
         }
 
-        return depth;
+        return depth+1;
     }
 };
