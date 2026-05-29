@@ -16,6 +16,13 @@ public:
 
             wrong2 = root;
         }
+        //how recusrsion calls
+    //     4
+    //    / \
+    //   2   6
+    //  / \ / \
+    // 1  3 5  7
+    //atforst 4 then 2 then 1 thne null return presrnt 1 focus on himselft calclaute prev=null then go to right null return then prev=1 root thne 2 main focus on 2 and prev=1
 
         prev = root;
 
