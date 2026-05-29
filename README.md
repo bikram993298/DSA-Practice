@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1283,6 +1285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/bikram993298/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bikram993298/DSA-Practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/bikram993298/DSA-Practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0212-word-search-ii) |
@@ -1428,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/bikram993298/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/bikram993298/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bikram993298/DSA-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bikram993298/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
