@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2421-number-of-good-paths](https://github.com/bikram993298/DSA-Practice/tree/master/2421-number-of-good-paths) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bikram993298/DSA-Practice/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/bikram993298/DSA-Practice/tree/master/2646-minimize-the-total-price-of-the-trips) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/bikram993298/DSA-Practice/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -1405,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2045-second-minimum-time-to-reach-destination](https://github.com/bikram993298/DSA-Practice/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/bikram993298/DSA-Practice/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bikram993298/DSA-Practice/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/bikram993298/DSA-Practice/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/bikram993298/DSA-Practice/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/bikram993298/DSA-Practice/tree/master/3607-power-grid-maintenance) |
@@ -1472,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2236-root-equals-sum-of-children](https://github.com/bikram993298/DSA-Practice/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/bikram993298/DSA-Practice/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/bikram993298/DSA-Practice/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/bikram993298/DSA-Practice/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Topological Sort
 |  |
 | ------- |
