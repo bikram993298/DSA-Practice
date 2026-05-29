@@ -12,6 +12,7 @@ public:
         sum += root->val;
 
         path.push_back(root->val);
+        // jhre preorde  bcause you have to add path of node first then go to left and right then agaian backtarck
 
         if(root->left == NULL && root->right == NULL) {
 
