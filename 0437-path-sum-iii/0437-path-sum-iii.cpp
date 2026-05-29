@@ -1,27 +1,37 @@
 class Solution {
 public:
-    unordered_map<long long, int> mp;
-    int cnt = 0;
 
-    void dfs(TreeNode* root, long long sum, int target) {
-        if (!root) return;
+    int ans = 0;
+
+    void solve(TreeNode* root, long long sum,
+               int targetSum,
+               unordered_map<long long,int>& mp) {
+
+        if(root == NULL)
+            return;
 
         sum += root->val;
 
-        if (sum == target)
-            cnt++;
-
-        if (mp.count(sum - target))
-            cnt += mp[sum - target];
+        if(mp.find(sum - targetSum) != mp.end()) {
+            ans += mp[sum - targetSum];
+        }
 
         mp[sum]++;
-        dfs(root->left, sum, target);
-        dfs(root->right, sum, target);
-        mp[sum]--;   // backtrack
+
+        solve(root->left, sum, targetSum, mp);
+        solve(root->right, sum, targetSum, mp);
+
+        mp[sum]--;
     }
 
     int pathSum(TreeNode* root, int targetSum) {
-        dfs(root, 0, targetSum);
-        return cnt;
+
+        unordered_map<long long,int> mp;
+
+        mp[0] = 1;
+
+        solve(root, 0, targetSum, mp);
+
+        return ans;
     }
 };
